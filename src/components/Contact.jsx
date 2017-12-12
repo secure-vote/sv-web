@@ -22,7 +22,7 @@ export default class Contact extends React.Component {
 									<p className="big-font">
 										<b>
 											<a href="mailto:info@ouraddress.com">info@ouraddress.com</a><br/>
-											<a href="http://www.ouraddress.com">www.ouraddress.com</a>
+											<a href="https://www.ouraddress.com">www.ouraddress.com</a>
 										</b>
 									</p>
 									<p className="big-font">

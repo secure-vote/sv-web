@@ -29,8 +29,6 @@
 25. Examples / .example-page, .example, pre
 26. Hardware Optimizations / .force3d
 27. Letter Spacing
-28. Home Variants / .home-angie, .home-lynda, .home-lucy, .home-alice, .home-mary, .home-suzi
-29. Customize Panel / #customize-panel
 30. Demo Selection / .select-demo
 31. Colors
 ------------------------------------------------------------------*/
@@ -619,53 +617,36 @@ textarea {
   transition: none;
   -webkit-transition: none;
 }
-.page-border.left {
-  left: 0;
-  top: 0;
-  bottom: 24px;
-  width: 25px;
-  border-right: 1px solid;
-}
-.page-border.left ul {
-  position: fixed;
-  z-index: 1030;
-  width: 25px;
-  top: 50%;
-  left: 0;
-  -webkit-transform: translateY(-50%);
-  padding-left: 0;
-  list-style: none;
-}
-.page-border.left ul li {
-  text-align: center;
-  padding: 3px 0;
-}
-.page-border.right {
-  right: 0;
-  top: 0;
-  bottom: 24px;
-  width: 25px;
-  border-left: 1px solid;
-}
 .page-border.bottom {
-  bottom: 0;
-  right: 0;
-  left: 0;
-  height: 25px;
-  border-top: 1px solid;
-  text-align: center;
-  font-weight: 800;
-  text-transform: uppercase;
-  padding-top: 2px;
-  font-size: 12px;
-  letter-spacing: 1px;
+	bottom: 0;
+	right: 0;
+	left: 0;
+	height: 30px;
+	border-top: 1px solid;
+	text-align: center;
+	font-weight: 800;
+	text-transform: uppercase;
+	padding-top: 2px;
+	font-size: 12px;
+	letter-spacing: 1px;
 }
+
 .page-border.bottom a {
-  line-height: 15px;
-  text-decoration: none;
+	line-height: 15px;
+	text-decoration: none;
+	padding: 0px 20px;
 }
+.page-border {
+	display: none;
+}
+
 body {
   padding-top: 48px;
+}
+@media (max-width: 767px) {
+	.page-border {
+		display: initial;
+	}
 }
 @media (max-width: 1249px) {
   body {
@@ -673,9 +654,7 @@ body {
     padding-right: 0;
     padding-bottom: 0;
   }
-  .page-border {
-    display: none;
-  }
+
   #top-nav {
     margin: 0;
   }
@@ -4046,76 +4025,24 @@ p {
   letter-spacing: 2px;
 }
 /*==================================================================
-28. Home Variants / .home-angie, .home-lynda, .home-lucy, .home-alice, .home-mary, .home-suzi
+28. Home theme
 ==================================================================*/
-.home-angie .full-size {
-  padding-top: 80px;
-  padding-bottom: 75px;
-}
-@media (max-width: 991px) {
-  .home-angie .full-size {
-    padding-top: 90px !important;
-    padding-bottom: 75px !important;
-  }
-}
-.home-angie h1 {
+.home-theme .textillate {
   font-size: 50px;
-  line-height: 50px;
-  margin-bottom: 20px;
-  margin-top: 0px;
-  font-weight: 400;
-}
-.home-angie h1 span {
-  font-weight: 800;
-}
-@media (max-width: 1199px) {
-  .home-angie h1 {
-    font-size: 45px;
-    line-height: 45px;
-  }
+	line-height: 50px;
+	margin-bottom: 200px;
 }
 @media (max-width: 991px) {
-  .home-angie h1 {
-    text-align: center;
-  }
-}
-@media (max-width: 767px) {
-  .home-angie h1 {
+  .home-theme .textillate {
     font-size: 35px;
     line-height: 35px;
-  }
+	}
+	.home-theme embed {
+		width: 100%;
+	}
 }
-.home-angie .textillate {
-  font-size: 34px;
-  line-height: 41px;
-  font-weight: 400;
-}
-.home-angie .header-details {
-  margin-bottom: 15px;
-  margin-top: -10px;
-}
-.home-angie .box {
-  padding: 60px 20px !important;
-}
-.home-angie .simple {
-  font-weight: 500;
-  letter-spacing: 1px;
-  text-transform: uppercase;
-}
-.home-lynda .textillate,
-.home-lucy .textillate {
-  font-size: 35px;
-  line-height: 35px;
-}
-@media (max-width: 991px) {
-  .home-lynda .textillate,
-  .home-lucy .textillate {
-    font-size: 24px;
-    line-height: 24px;
-  }
-}
-.home-lynda h1,
-.home-lucy h1 {
+
+.home-theme h1 {
   font-weight: 800;
   margin-top: 0px;
   margin-bottom: 11px;
@@ -4123,354 +4050,18 @@ p {
   line-height: 86px;
 }
 @media (max-width: 991px) {
-  .home-lynda h1,
-  .home-lucy h1 {
+  .home-theme h1 {
     font-size: 60px;
     line-height: 60px;
   }
 }
 @media (max-width: 767px) {
-  .home-lynda h1,
-  .home-lucy h1 {
+  .home-theme h1 {
     font-size: 48px;
     line-height: 48px;
   }
 }
-.home-alice .full-size,
-.home-mary .full-size,
-.home-suzi .full-size {
-  padding-top: 80px;
-  padding-bottom: 75px;
-}
-@media (max-width: 991px) {
-  .home-alice .full-size,
-  .home-mary .full-size,
-  .home-suzi .full-size {
-    padding-top: 90px !important;
-    padding-bottom: 75px !important;
-  }
-}
-.home-alice h1,
-.home-mary h1,
-.home-suzi h1 {
-  font-size: 90px;
-  line-height: 90px;
-  margin-top: 0px;
-  margin-bottom: 11px;
-}
-@media (max-width: 1199px) {
-  .home-alice h1,
-  .home-mary h1,
-  .home-suzi h1 {
-    font-size: 70px;
-    line-height: 70px;
-  }
-}
-@media (max-width: 991px) {
-  .home-alice h1,
-  .home-mary h1,
-  .home-suzi h1 {
-    text-align: center;
-  }
-}
-@media (max-width: 767px) {
-  .home-alice h1,
-  .home-mary h1,
-  .home-suzi h1 {
-    font-size: 50px;
-    line-height: 50px;
-  }
-}
-@media (max-width: 991px) {
-  .home-alice p,
-  .home-mary p,
-  .home-suzi p {
-    text-align: center !important;
-  }
-}
-.home-alice .textillate,
-.home-mary .textillate,
-.home-suzi .textillate {
-  font-size: 35px;
-  line-height: 35px;
-}
-@media (max-width: 991px) {
-  .home-alice .textillate,
-  .home-mary .textillate,
-  .home-suzi .textillate {
-    font-size: 24px;
-    line-height: 24px;
-  }
-}
-.home-alice ul,
-.home-mary ul,
-.home-suzi ul {
-  font-weight: 700;
-  letter-spacing: 1px;
-}
-.home-mary h1,
-.home-suzi h1 {
-  font-size: 70px;
-  line-height: 84px;
-  margin-bottom: 11px;
-}
-@media (max-width: 1199px) {
-  .home-mary h1,
-  .home-suzi h1 {
-    font-size: 60px;
-    line-height: 72px;
-  }
-}
-@media (max-width: 991px) {
-  .home-mary h1,
-  .home-suzi h1 {
-    font-size: 50px;
-    line-height: 60px;
-  }
-}
-@media (max-width: 767px) {
-  .home-mary h1,
-  .home-suzi h1 {
-    font-size: 40px;
-    line-height: 48px;
-  }
-}
-.home-mary .lead,
-.home-suzi .lead {
-  margin-bottom: 30px;
-}
-.home-mary .textillate,
-.home-suzi .textillate {
-  font-size: 28px;
-  line-height: 34px;
-}
-.home-suzi h1 {
-  font-size: 100px;
-  line-height: 100px;
-  margin-bottom: 11px;
-}
-@media (max-width: 1199px) {
-  .home-suzi h1 {
-    font-size: 70px;
-    line-height: 70px;
-  }
-}
-@media (max-width: 991px) {
-  .home-suzi h1 {
-    font-size: 60px;
-    line-height: 60px;
-  }
-}
-@media (max-width: 767px) {
-  .home-suzi h1 {
-    font-size: 50px;
-    line-height: 50px;
-  }
-}
-.home-suzi h2 {
-  font-size: 72px;
-  line-height: 72px;
-  margin-bottom: 0px;
-}
-@media (max-width: 1199px) {
-  .home-suzi h2 {
-    font-size: 60px;
-    line-height: 60px;
-  }
-}
-@media (max-width: 991px) {
-  .home-suzi h2 {
-    font-size: 50px;
-    line-height: 50px;
-  }
-}
-@media (max-width: 767px) {
-  .home-suzi h2 {
-    font-size: 40px;
-    line-height: 40px;
-  }
-}
-.home-suzi .title {
-  font-weight: 500;
-  margin-bottom: 20px;
-}
-/*==================================================================
-29. Customize Panel / #customize-panel
-==================================================================*/
-#customize-panel {
-  /*.options{
-		.colors{
-			background-image: url('../images/customize/bg.jpg');
-			background-position: center center;
-			background-size: cover
-		}
-	}*/
-}
-#customize-panel {
-  position: fixed;
-  top: 130px;
-  z-index: 1040;
-  left: -1200px;
-  font-size: 10px;
-  -webkit-transition: left .5s;
-  -moz-transition: left .5s;
-  -ms-transition: left .5s;
-  -o-transition: left .5s;
-  transition: left .5s;
-  pointer-events: none;
-}
-.android-browser-4_3minus #customize-panel {
-  transition: none;
-  -webkit-transition: none;
-}
-#customize-panel .title {
-  text-align: center;
-  font-size: 18px;
-  padding: 0px 10px 10px 10px;
-  line-height: normal;
-  border-bottom: 1px solid;
-  margin: 0 10px 10px 10px;
-}
-#customize-panel .options {
-  border-top: 10px solid;
-  border-bottom: 10px solid;
-  pointer-events: auto;
-  width: 340px;
-  height: 630px;
-  overflow-y: auto;
-  overflow-x: hidden;
-  float: left;
-  padding-bottom: 10px;
-  position: relative;
-}
-#customize-panel .options .options-gate {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  opacity: 1;
-  padding: 10px;
-  text-align: center;
-  font-size: 18px;
-  -webkit-transition: opacity 1s;
-  -moz-transition: opacity 1s;
-  -ms-transition: opacity 1s;
-  -o-transition: opacity 1s;
-  transition: opacity 1s;
-}
-.android-browser-4_3minus #customize-panel .options .options-gate {
-  transition: none;
-  -webkit-transition: none;
-}
-#customize-panel .options a.button {
-  border: 1px solid;
-  -moz-border-radius: 5px;
-  -webkit-border-radius: 5px;
-  border-radius: 5px;
-}
-#customize-panel .options a.button span {
-  text-transform: none;
-}
-#customize-panel .options .themes {
-  margin: 0 10px 10px 10px;
-}
-#customize-panel .options .themes select {
-  width: 100%;
-  font-size: 18px;
-}
-#customize-panel .options .themes a.button {
-  width: 100%;
-  text-align: center;
-}
-#customize-panel .options .colors,
-#customize-panel .options .statuses {
-  padding: 0 10px;
-  margin: 0 10px;
-}
-#customize-panel .options .colors > div.row,
-#customize-panel .options .statuses > div.row {
-  margin-left: -10px;
-  margin-right: -10px;
-}
-#customize-panel .options .colors > div.row > div,
-#customize-panel .options .statuses > div.row > div {
-  padding-top: 10px;
-  padding-bottom: 5px;
-  padding-left: 10px;
-  padding-right: 10px;
-}
-#customize-panel .toggle-button {
-  pointer-events: auto;
-  float: left;
-  width: 26px;
-  height: 26px;
-  line-height: 26px;
-  font-size: 12px;
-  text-align: center;
-  -moz-border-top-right-radius: 3px;
-  -webkit-border-top-right-radius: 3px;
-  border-top-right-radius: 3px;
-  -moz-border-bottom-right-radius: 3px;
-  -webkit-border-bottom-right-radius: 3px;
-  border-bottom-right-radius: 3px;
-}
-#customize-panel .custom-css {
-  z-index: 1060;
-  position: fixed;
-  width: 750px;
-  margin-left: -375px;
-  top: 110px;
-  left: 50%;
-  visibility: hidden;
-  padding-bottom: 10px;
-  -moz-border-radius: 5px;
-  -webkit-border-radius: 5px;
-  border-radius: 5px;
-  -webkit-transition: opacity .3s;
-  -moz-transition: opacity .3s;
-  -ms-transition: opacity .3s;
-  -o-transition: opacity .3s;
-  transition: opacity .3s;
-}
-.android-browser-4_3minus #customize-panel .custom-css {
-  transition: none;
-  -webkit-transition: none;
-}
-#customize-panel .custom-css h2,
-#customize-panel .custom-css p {
-  padding: 5px 10px;
-  margin: 0 0 10px 0;
-}
-#customize-panel .custom-css h4 {
-  -moz-border-top-left-radius: 5px;
-  -webkit-border-top-left-radius: 5px;
-  border-top-left-radius: 5px;
-  -moz-border-top-right-radius: 5px;
-  -webkit-border-top-right-radius: 5px;
-  border-top-right-radius: 5px;
-  margin: 0;
-  line-height: normal;
-  text-transform: none;
-  text-align: center;
-  padding: 10px;
-}
-#customize-panel .controls {
-  clear: both;
-  text-align: center;
-  margin: 0 10px 0px 10px;
-  padding: 10px 0 5px 0;
-}
-#customize-panel .file-name {
-  font-size: 14px;
-  font-weight: 700;
-}
-#customize-panel textarea {
-  font-size: 13px;
-}
-.factory-flag {
-  display: none;
-}
+
 /*==================================================================
 30. Demo Selection / .select-demo
 ==================================================================*/
