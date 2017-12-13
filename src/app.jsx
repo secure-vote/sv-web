@@ -9,6 +9,7 @@ import Recognise from './components/Recognise';
 import Contact from './components/Contact';
 import Footer from './components/Footer';
 import Loading from './components/Loading';
+import Bottom from './components/Bottom';
 import 'styles/index.scss';
 
 export default class App extends React.Component {
@@ -17,6 +18,7 @@ export default class App extends React.Component {
 			<div className='App'>
 				<Loading />
 				<Extnavbar />
+				<Bottom />
 				<Navigation />
 				<Home />
 				<Benefits />

@@ -20,7 +20,7 @@ export default class Team extends React.Component {
 											<div className="separator-small"></div>
 											<p className="text-center">
 												<a rel="noopener noreferrer" target="_blank" href="https://www.facebook.com/"><i className="fa fa-facebook heading-b"></i></a>
-												<a rel="noopener noreferrer" target="_blank" href="http://www.youtube.com/"><i className="fa fa-youtube heading-b"></i></a>
+												<a rel="noopener noreferrer" target="_blank" href="https://www.youtube.com/"><i className="fa fa-youtube heading-b"></i></a>
 												<a rel="noopener noreferrer" target="_blank" href="https://github.com/"><i className="fa fa-github heading-b"></i></a>
 											</p>
 										</div>
