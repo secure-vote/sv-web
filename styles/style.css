@@ -71,7 +71,7 @@ html {
   line-height: 22px;
 }
 p {
-  font-size: 13px;
+  font-size: 16px;
   line-height: 22px;
   margin-bottom: 11px;
 }
@@ -124,8 +124,8 @@ h2 {
   }
 }
 h3 {
-  font-size: 30px;
-  line-height: 36px;
+  font-size: 36px;
+  line-height: 42px;
 }
 @media (max-width: 991px) {
   h3 {
@@ -3023,6 +3023,11 @@ a.button,
 input.button {
   padding: 13px 24px;
   font-size: 13px;
+}
+a.button.button-large,
+input.button.button-large {
+  padding: 18px 24px;
+  font-size: 26px;
 }
 .line {
   padding-top: 10px;

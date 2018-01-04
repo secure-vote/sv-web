@@ -6762,6 +6762,11 @@ footer.colors-g.border-top {
   background-color: #0f0e0e;
 }
 
+.colors-h .alt-background-solid,
+.colors-h.alt-background-solid {
+  color: #ffffff;
+}
+
 .colors-h .background-hard,
 .colors-h.background-hard {
   background-color: rgba(15, 14, 14, 0.95);

@@ -1,336 +1,343 @@
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="240px" height="50px" viewBox="0 0 1706.758 355.135" enable-background="new 0 0 312 65" xml:space="preserve">
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="240px" height="50px" viewBox="0 0 2268.691 355.135" enable-background="new 0 0 2268.691 355.135"
+	 xml:space="preserve">
 <g>
-	<path fill-rule="evenodd" clip-rule="evenodd" fill="#2C80AA" d="M1158.776,166.673v20.497h-64.803v34.525h74.034v20.492h-96.56
-		v-75.514H1158.776z M1071.448,112.946h95.641v20.495h-95.641V112.946z M993.814,177.014c8.15,0,14.644-1.938,19.444-5.848
-		c4.831-3.878,7.231-9.17,7.231-15.848v-0.368c0-7.049-2.34-12.402-7.045-16.033c-4.678-3.66-11.297-5.477-19.82-5.477h-33.14
-		H937.96v-20.495h57.604c8.123,0,15.322,1.138,21.602,3.416c6.279,2.278,11.513,5.445,15.694,9.508
-		c3.448,3.57,6.093,7.694,7.941,12.369c1.844,4.679,2.769,9.849,2.769,15.511v0.368c0,5.295-0.769,10.064-2.311,14.311
-		c-1.536,4.246-3.662,7.999-6.367,11.26c-2.71,3.264-5.939,6.032-9.691,8.309c-3.756,2.277-7.909,4.033-12.466,5.262l34.897,48.928
-		h-26.771l-31.851-45.049h-0.37h-9.726l-9.458-20.125H993.814z M851.183,244.217c-8.367,0-15.936-1.195-22.709-3.598
-		c-6.768-2.4-12.551-6-17.354-10.801c-4.801-4.801-8.493-10.74-11.075-17.818c-2.587-7.078-3.879-15.291-3.879-24.646v-74.407
-		h22.525v73.485c0,12.061,2.922,21.23,8.738,27.508c5.818,6.279,13.848,9.418,24.127,9.418c10.153,0,18.123-3.016,23.938-9.047
-		c5.816-6.033,8.74-15.018,8.74-26.957v-74.407h22.525v73.3c0,9.602-1.327,18.031-3.972,25.293
-		c-2.647,7.264-6.368,13.324-11.166,18.186c-4.804,4.863-10.622,8.494-17.45,10.895
-		C867.339,243.021,859.677,244.217,851.183,244.217 M722.128,244.404c-9.478,0-18.216-1.723-26.215-5.172
-		c-8.003-3.445-14.954-8.156-20.836-14.125c-5.876-5.967-10.49-13.014-13.846-21.137c-3.353-8.123-5.015-16.801-5.015-26.034v-0.369
-		c0-9.232,1.63-17.879,4.922-25.941c3.294-8.061,7.909-15.14,13.848-21.232c5.942-6.095,12.987-10.895,21.11-14.402
-		c8.126-3.508,17.107-5.262,26.953-5.262c5.909,0,11.297,0.492,16.158,1.476c4.864,0.987,9.324,2.37,13.388,4.155
-		c4.058,1.785,7.815,3.911,11.259,6.368c3.448,2.463,6.707,5.172,9.788,8.126l-14.587,16.8c-5.171-4.8-10.646-8.678-16.433-11.632
-		c-5.782-2.953-12.369-4.431-19.757-4.431c-6.153,0-11.846,1.201-17.077,3.6c-5.229,2.401-9.756,5.664-13.568,9.788
-		c-3.816,4.122-6.771,8.953-8.866,14.492c-2.089,5.54-3.137,11.45-3.137,17.724v0.37c0,6.278,1.048,12.217,3.137,17.819
-		c2.095,5.598,5.05,10.492,8.866,14.676c3.812,4.184,8.339,7.477,13.568,9.879c5.231,2.398,10.924,3.6,17.077,3.6
-		c7.881,0,14.649-1.51,20.312-4.523c5.662-3.016,11.259-7.105,16.8-12.279l14.587,14.77c-3.322,3.572-6.804,6.74-10.433,9.512
-		c-3.63,2.768-7.539,5.168-11.723,7.199c-4.187,2.031-8.771,3.57-13.758,4.613C733.669,243.881,728.158,244.404,722.128,244.404
-		 M625.568,166.673v20.497H560.76v34.525h74.042v20.492h-96.567v-75.514H625.568z M538.234,112.946h95.641v20.495h-95.641V112.946z
-		 M465.494,244.037c-9.972,0-19.508-1.693-28.618-5.078c-9.11-3.387-17.541-8.59-25.296-15.602l13.664-16.25
-		c6.277,5.416,12.617,9.57,19.018,12.465c6.399,2.893,13.664,4.34,21.784,4.34c7.018,0,12.587-1.479,16.71-4.432
-		c4.121-2.955,6.186-6.896,6.186-11.818v-0.369c0-2.34-0.4-4.4-1.201-6.184c-0.798-1.783-2.276-3.479-4.433-5.078
-		c-2.182-1.602-5.139-3.078-8.892-4.432c-3.783-1.354-8.677-2.707-14.707-4.062c-6.924-1.6-13.047-3.416-18.433-5.445
-		c-5.357-2.032-9.876-4.493-13.511-7.386c-3.63-2.892-6.431-6.432-8.337-10.615c-1.907-4.185-2.861-9.231-2.861-15.142v-0.368
-		c0-5.539,1.105-10.618,3.289-15.231c2.22-4.616,5.234-8.556,9.081-11.818c3.846-3.263,8.463-5.815,13.878-7.662
-		c5.383-1.845,11.292-2.771,17.694-2.771c9.476,0,17.999,1.386,25.568,4.155c7.571,2.771,14.68,6.803,21.326,12.095l-12.186,17.169
-		c-5.909-4.307-11.755-7.599-17.541-9.878c-5.785-2.276-11.632-3.416-17.538-3.416c-6.645,0-11.818,1.476-15.508,4.43
-		c-3.695,2.956-5.539,6.587-5.539,10.895v0.37c0,2.461,0.428,4.648,1.29,6.556c0.863,1.905,2.433,3.629,4.707,5.168
-		c2.312,1.541,5.448,2.986,9.448,4.338c4.032,1.355,9.107,2.771,15.296,4.245c6.766,1.723,12.799,3.633,18.03,5.725
-		c5.231,2.093,9.602,4.648,13.047,7.665c3.448,3.016,6.093,6.52,7.879,10.523c1.783,3.998,2.675,8.648,2.675,13.939v0.367
-		c0,6.033-1.136,11.451-3.383,16.25c-2.277,4.797-5.418,8.863-9.448,12.186c-4.002,3.324-8.863,5.848-14.498,7.57
-		C478.479,243.172,472.265,244.037,465.494,244.037"></path>
-	<path fill-rule="evenodd" clip-rule="evenodd" fill="#A7AAB2" d="M1697.529,166.673v20.495h-64.807v34.527h74.035v20.492h-96.561
-		v-75.514H1697.529z M1610.197,112.946h95.641v20.495h-95.641V112.946z M1522.314,133.995h-40.987v-21.048h104.866v21.048h-40.988
-		v108.193h-22.891V133.995z M1395.29,244.404c-9.972,0-19.082-1.754-27.326-5.262c-8.249-3.51-15.324-8.277-21.233-14.309
-		s-10.523-13.078-13.848-21.141c-3.322-8.062-4.985-16.646-4.985-25.756v-0.369c0-9.107,1.663-17.695,4.985-25.755
-		c3.324-8.065,8.002-15.14,14.031-21.232c6.033-6.095,13.171-10.926,21.418-14.497c8.246-3.566,17.356-5.354,27.323-5.354
-		c9.972,0,19.077,1.752,27.329,5.262c8.249,3.507,15.321,8.279,21.23,14.311c5.909,6.03,10.523,13.077,13.849,21.138
-		c3.322,8.063,4.984,16.647,4.984,25.756v0.37c0,9.106-1.662,17.694-4.984,25.754c-3.325,8.066-8.002,15.139-14.032,21.234
-		c-6.032,6.092-13.174,10.924-21.415,14.492C1414.367,242.621,1405.26,244.404,1395.29,244.404 M1395.655,223.541
-		c6.37,0,12.219-1.201,17.573-3.6c5.322-2.4,9.877-5.662,13.692-9.787c3.786-4.123,6.771-8.955,8.892-14.492
-		c2.156-5.537,3.234-11.447,3.234-17.725v-0.369c0-6.276-1.078-12.218-3.234-17.818c-2.121-5.598-5.136-10.461-8.982-14.586
-		c-3.879-4.122-8.496-7.415-13.878-9.876c-5.415-2.46-11.294-3.694-17.662-3.694c-6.372,0-12.216,1.201-17.571,3.6
-		c-5.324,2.401-9.876,5.664-13.694,9.788c-3.783,4.122-6.771,8.953-8.894,14.491c-2.153,5.541-3.231,11.45-3.231,17.726v0.37
-		c0,6.278,1.078,12.217,3.231,17.819c2.123,5.602,5.139,10.463,8.984,14.586c3.879,4.123,8.496,7.414,13.879,9.875
-		C1383.409,222.309,1389.288,223.541,1395.655,223.541 M1184.072,112.946h25.11l38.955,99.333l38.774-99.333h24.553l-53.726,130.165
-		h-19.938L1184.072,112.946z"></path>
+	<path fill-rule="evenodd" clip-rule="evenodd" fill="#2C80AA" d="M1489.805,162.083v29.133h-92.109v49.074h105.23v29.127h-137.248
+		V162.083H1489.805z M1365.678,85.716h135.941v29.131h-135.941V85.716z M1255.331,176.781c11.585,0,20.814-2.754,27.638-8.312
+		c6.867-5.512,10.279-13.034,10.279-22.525v-0.522c0-10.019-3.326-17.628-10.014-22.79c-6.648-5.202-16.058-7.784-28.172-7.784
+		h-47.104h-32.017V85.716h81.877c11.547,0,21.779,1.617,30.704,4.855c8.926,3.238,16.364,7.739,22.308,13.515
+		c4.901,5.075,8.66,10.936,11.288,17.581c2.62,6.65,3.935,13.999,3.935,22.046v0.523c0,7.526-1.092,14.305-3.283,20.341
+		c-2.184,6.035-5.206,11.37-9.051,16.004c-3.852,4.64-8.442,8.573-13.775,11.811c-5.338,3.236-11.241,5.732-17.719,7.479
+		l49.603,69.545h-38.052l-45.271-64.031h-0.526h-13.823l-13.443-28.605H1255.331z M1052.598,272.301
+		c-11.893,0-22.65-1.698-32.277-5.113c-9.619-3.412-17.84-8.528-24.668-15.352c-6.823-6.824-12.071-15.267-15.741-25.327
+		c-3.678-10.061-5.514-21.734-5.514-35.032V85.716h32.017v104.451c0,17.143,4.153,30.176,12.421,39.099
+		c8.271,8.925,19.683,13.387,34.293,13.387c14.433,0,25.76-4.286,34.026-12.859c8.267-8.575,12.423-21.346,12.423-38.316V85.716
+		h32.017v104.187c0,13.647-1.887,25.629-5.645,35.95c-3.764,10.324-9.052,18.939-15.871,25.849
+		c-6.828,6.913-15.099,12.073-24.804,15.485C1075.562,270.603,1064.672,272.301,1052.598,272.301 M869.163,272.567
+		c-13.472,0-25.892-2.448-37.262-7.351c-11.375-4.897-21.255-11.594-29.615-20.077c-8.353-8.481-14.911-18.497-19.68-30.043
+		c-4.766-11.546-7.128-23.881-7.128-37.004v-0.525c0-13.123,2.316-25.413,6.996-36.872c4.682-11.458,11.241-21.519,19.683-30.179
+		c8.446-8.663,18.46-15.486,30.006-20.471c11.55-4.986,24.315-7.479,38.311-7.479c8.398,0,16.057,0.7,22.967,2.098
+		c6.913,1.403,13.253,3.369,19.028,5.906c5.768,2.538,11.109,5.559,16.003,9.052c4.901,3.501,9.533,7.351,13.913,11.55
+		l-20.733,23.879c-7.351-6.823-15.133-12.334-23.357-16.533c-8.219-4.197-17.581-6.298-28.082-6.298
+		c-8.746,0-16.837,1.708-24.272,5.117c-7.434,3.413-13.867,8.051-19.286,13.913c-5.425,5.859-9.625,12.726-12.603,20.599
+		c-2.969,7.874-4.458,16.274-4.458,25.193v0.526c0,8.923,1.489,17.366,4.458,25.328c2.978,7.956,7.178,14.913,12.603,20.859
+		c5.419,5.946,11.853,10.627,19.286,14.042c7.436,3.409,15.526,5.116,24.272,5.116c11.202,0,20.822-2.146,28.871-6.43
+		c8.048-4.286,16.003-10.1,23.878-17.453l20.734,20.993c-4.723,5.077-9.671,9.58-14.829,13.52
+		c-5.159,3.934-10.716,7.346-16.662,10.232c-5.951,2.888-12.467,5.075-19.556,6.558
+		C885.567,271.823,877.734,272.567,869.163,272.567 M731.915,162.083v29.133h-92.117v49.074H745.04v29.127H607.781V162.083H731.915z
+		 M607.781,85.716h135.941v29.131H607.781V85.716z M504.39,272.046c-14.173,0-27.728-2.407-40.677-7.218
+		c-12.949-4.814-24.933-12.21-35.955-22.176l19.422-23.098c8.922,7.698,17.934,13.604,27.031,17.718
+		c9.096,4.111,19.422,6.168,30.963,6.168c9.975,0,17.891-2.102,23.752-6.299c5.857-4.2,8.791-9.803,8.791-16.799v-0.524
+		c0-3.325-0.568-6.255-1.707-8.789c-1.134-2.534-3.235-4.944-6.3-7.218c-3.102-2.276-7.305-4.375-12.639-6.299
+		c-5.377-1.924-12.333-3.848-20.904-5.774c-9.841-2.273-18.545-4.855-26.199-7.74c-7.615-2.888-14.038-6.386-19.204-10.499
+		c-5.159-4.11-9.141-9.142-11.85-15.088c-2.711-5.948-4.067-13.121-4.067-21.522v-0.522c0-7.873,1.571-15.092,4.675-21.649
+		c3.155-6.562,7.44-12.162,12.908-16.798c5.466-4.638,12.028-8.265,19.726-10.891c7.65-2.622,16.05-3.938,25.15-3.938
+		c13.468,0,25.583,1.97,36.342,5.905c10.762,3.938,20.865,9.669,30.312,17.192l-17.32,24.404c-8.399-6.122-16.708-10.8-24.933-14.04
+		c-8.223-3.235-16.533-4.855-24.928-4.855c-9.444,0-16.799,2.097-22.043,6.297c-5.252,4.202-7.873,9.363-7.873,15.485v0.525
+		c0,3.499,0.608,6.606,1.834,9.318c1.227,2.708,3.458,5.159,6.69,7.346c3.287,2.19,7.744,4.244,13.43,6.167
+		c5.731,1.927,12.945,3.938,21.741,6.034c9.616,2.449,18.191,5.164,25.628,8.137c7.436,2.975,13.647,6.607,18.544,10.894
+		c4.901,4.286,8.66,9.267,11.199,14.958c2.534,5.683,3.802,12.292,3.802,19.812v0.522c0,8.575-1.614,16.276-4.809,23.098
+		c-3.236,6.817-7.7,12.598-13.429,17.319c-5.688,4.726-12.599,8.312-20.607,10.761C522.846,270.815,514.014,272.046,504.39,272.046"
+		/>
+	<path fill-rule="evenodd" clip-rule="evenodd" fill="#A7AAB2" d="M2255.574,162.083v29.13h-92.114v49.077h105.231v29.127h-137.249
+		V162.083H2255.574z M2131.442,85.716h135.941v29.131h-135.941V85.716z M2006.528,115.634h-58.259V85.716h149.055v29.917h-58.26
+		v153.783h-32.536V115.634z M1825.979,272.567c-14.173,0-27.122-2.493-38.84-7.479c-11.726-4.989-21.782-11.766-30.182-20.338
+		c-8.398-8.573-14.957-18.589-19.682-30.049c-4.723-11.46-7.087-23.661-7.087-36.609v-0.525c0-12.945,2.364-25.151,7.087-36.607
+		c4.725-11.464,11.373-21.519,19.943-30.178c8.575-8.664,18.721-15.53,30.442-20.605c11.722-5.069,24.671-7.609,38.837-7.609
+		c14.174,0,27.115,2.49,38.845,7.479c11.726,4.985,21.777,11.768,30.177,20.341c8.398,8.571,14.957,18.587,19.684,30.045
+		c4.723,11.461,7.085,23.662,7.085,36.609v0.526c0,12.943-2.362,25.15-7.085,36.607c-4.727,11.465-11.373,21.518-19.945,30.182
+		c-8.573,8.659-18.725,15.527-30.438,20.599C1853.095,270.033,1840.149,272.567,1825.979,272.567 M1826.498,242.913
+		c9.055,0,17.367-1.707,24.979-5.116c7.564-3.412,14.039-8.048,19.462-13.911c5.381-5.86,9.623-12.729,12.638-20.599
+		c3.065-7.871,4.598-16.271,4.598-25.194v-0.525c0-8.921-1.532-17.367-4.598-25.327c-3.015-7.956-7.3-14.869-12.768-20.732
+		c-5.513-5.859-12.076-10.54-19.726-14.038c-7.696-3.497-16.053-5.25-25.104-5.25c-9.057,0-17.363,1.708-24.975,5.117
+		c-7.568,3.413-14.038,8.051-19.465,13.913c-5.378,5.859-9.624,12.726-12.642,20.597c-3.061,7.876-4.593,16.275-4.593,25.195v0.526
+		c0,8.923,1.532,17.366,4.593,25.328c3.018,7.962,7.304,14.871,12.771,20.731c5.514,5.86,12.076,10.539,19.727,14.036
+		C1809.092,241.161,1817.448,242.913,1826.498,242.913 M1525.76,85.716h35.69l55.37,141.19l55.113-141.19h34.898l-76.364,185.013
+		h-28.34L1525.76,85.716z"/>
 	<g>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#888C97" points="111.837,161.424 83.877,145.282 111.837,129.139 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#7D828E" points="111.838,161.424 139.798,145.281 111.838,129.139 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#C7C8CE" points="307.556,209.853 279.597,193.71 307.556,177.567 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#BCBEC5" points="279.597,225.995 307.556,209.853 279.597,193.71 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#B2B4BC" points="307.556,242.138 279.597,225.995 307.556,209.853 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#A7AAB3" points="279.597,258.28 307.556,242.138 279.597,225.995 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#DCDDE0" points="307.557,145.283 279.597,129.141 307.557,112.998 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#D1D3D7" points="279.598,161.425 307.558,145.283 279.598,129.141 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#DCDDE0" points="335.517,161.425 307.557,145.283 335.517,129.141 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#D1D3D7" points="307.557,209.853 335.517,193.71 307.557,177.567 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#C7C8CE" points="335.516,225.995 307.556,209.853 335.516,193.71 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#BCBEC5" points="307.557,242.138 335.517,225.995 307.557,209.853 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#F1F1F2" points="335.517,129.14 307.557,112.997 335.517,96.855 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#E6E7E9" points="307.558,145.283 335.518,129.141 307.558,112.998 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#737784" points="251.637,306.707 223.677,290.564 251.637,274.423 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#6A6E7A" points="223.677,322.85 251.637,306.707 223.677,290.564 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#616570" points="195.718,306.707 223.678,322.85 223.678,290.564 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#585B65" points="195.717,338.992 195.717,306.707 223.677,322.85 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#4F525B" points="167.758,322.85 195.718,338.993 195.718,306.708 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#464850" points="167.757,355.135 167.757,322.85 195.716,338.993 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#3C3F46" points="139.798,338.992 167.758,355.135 167.758,322.85 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#737784" points="223.677,290.564 195.717,274.423 223.677,258.279 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#6A6E7A" points="195.717,306.707 223.677,290.564 195.717,274.422 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#616570" points="167.758,290.564 195.718,306.708 195.718,274.423 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#585B65" points="167.757,322.85 167.757,290.564 195.717,306.708 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#4F525B" points="139.798,306.707 167.758,322.85 167.758,290.564 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#464850" points="139.797,338.992 139.797,306.707 167.758,322.85 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#3C3F46" points="111.838,322.85 139.798,338.993 139.798,306.708 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#9DA0A9" points="251.637,242.138 279.597,258.279 279.597,225.994 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#9296A0" points="251.637,274.422 251.637,242.138 279.597,258.279 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#888C97" points="223.677,258.279 251.637,274.423 251.637,242.138 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#7D818E" points="223.677,290.564 223.677,258.279 251.637,274.422 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#B2B4BC" points="335.516,258.28 307.556,242.138 335.516,225.995 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#A7AAB3" points="307.557,274.423 335.517,258.279 307.557,242.138 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#9DA0A9" points="279.597,258.28 307.557,274.423 307.557,242.138 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#9296A0" points="279.596,290.565 279.596,258.28 307.556,274.422 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#888C97" points="251.637,274.423 279.597,290.565 279.597,258.279 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#7D818E" points="251.637,306.708 251.637,274.423 279.597,290.564 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#80B7D5" points="27.959,209.853 55.919,193.71 27.959,177.567 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#63A6CB" points="55.918,225.995 27.959,209.853 55.918,193.71 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#4595C2" points="27.959,242.138 55.919,225.996 27.959,209.853 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#63A6CB" points="55.918,258.28 27.959,242.138 55.918,225.995 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#9EC8DF" points="27.959,145.283 55.919,129.14 27.959,112.998 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#8FBFDA" points="55.919,161.426 27.959,145.284 55.919,129.141 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#9EC8DF" points="-0.001,161.426 27.958,145.284 -0.001,129.141 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#8FBFDA" points="27.958,209.853 -0.002,193.71 27.958,177.567 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#80B7D5" points="-0.001,225.995 27.959,209.854 -0.001,193.71 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#63A6CB" points="27.958,242.138 -0.002,225.996 27.958,209.853 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#BBD8E9" points="-0.001,129.141 27.958,112.998 -0.001,96.855 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#ACD0E4" points="27.959,145.283 0,129.141 27.959,112.998 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#3C8BB7" points="83.878,306.707 111.838,290.564 83.878,274.423 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#2E698A" points="111.838,290.564 139.797,274.423 111.838,258.279 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#549EC6" points="83.877,242.138 55.918,258.279 55.918,225.994 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#4595C2" points="83.878,274.422 83.878,242.138 55.917,258.279 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#2E698A" points="111.837,258.279 83.877,274.423 83.877,242.138 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#3780A8" points="111.837,290.564 111.837,258.279 83.877,274.422 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#4595C2" points="-0.001,258.28 27.959,242.138 -0.001,225.995 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#63A6CB" points="27.958,274.423 -0.002,258.279 27.958,242.138 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#549EC6" points="55.918,258.28 27.958,274.423 27.958,242.138 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#4595C2" points="55.918,290.565 55.918,258.28 27.959,274.422 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#549EC6" points="83.878,274.423 55.917,290.565 55.917,258.279 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#4595C2" points="83.878,306.708 83.878,274.423 55.918,290.564 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#337599" points="223.677,225.995 195.717,209.853 223.677,193.71 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#2E698A" points="195.718,242.138 223.678,225.995 195.718,209.853 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#295E7C" points="167.758,225.995 195.718,242.137 195.718,209.853 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#24536D" points="167.757,258.28 167.757,225.995 195.717,242.138 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#1F485E" points="139.798,242.138 167.758,258.279 167.758,225.995 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#24536D" points="139.798,274.423 139.798,242.138 167.758,258.279 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#295E7C" points="111.838,258.28 139.797,274.423 139.797,242.138 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#337599" points="195.717,209.853 167.757,193.71 195.717,177.567 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#2E698A" points="167.758,225.995 195.718,209.853 167.758,193.71 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#295E7C" points="139.798,209.853 167.758,225.995 167.758,193.71 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#24536D" points="139.797,242.138 139.797,209.853 167.758,225.995 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#1F485E" points="111.838,225.995 139.797,242.137 139.797,209.853 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#24536D" points="111.838,258.279 111.838,225.995 139.798,242.138 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#295E7C" points="83.878,242.138 111.838,258.279 111.838,225.995 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#549EC6" points="223.679,129.14 251.639,145.282 251.639,112.998 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#4595C2" points="223.678,161.425 223.678,129.14 251.638,145.283 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#3C8BB7" points="195.719,145.283 223.679,161.425 223.679,129.14 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#3780A8" points="195.718,209.853 195.718,177.567 223.678,193.709 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#3C8BB7" points="223.677,193.71 251.637,209.853 251.637,177.567 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#3780A8" points="223.677,225.995 223.677,193.71 251.637,209.853 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#CAE1ED" points="335.517,64.57 307.558,48.428 335.517,32.285 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#BBD8E9" points="307.558,80.712 335.517,64.57 307.558,48.427 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#ACD0E4" points="279.598,64.57 307.558,80.712 307.558,48.428 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#9EC8DF" points="279.598,96.855 279.598,64.57 307.558,80.713 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#8FBFDA" points="251.638,80.712 279.598,96.854 279.598,64.569 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#80B7D5" points="251.638,112.998 251.638,80.712 279.598,96.855 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#71AED0" points="223.679,96.855 251.639,112.997 251.639,80.713 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#CAE1ED" points="307.558,48.427 279.597,32.285 307.558,16.142 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#BBD8E9" points="279.598,64.57 307.558,48.428 279.598,32.285 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#ACD0E4" points="251.638,48.427 279.598,64.569 279.598,32.284 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#9EC8DF" points="251.638,80.712 251.638,48.427 279.598,64.57 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#8FBFDA" points="223.679,64.57 251.639,80.712 251.639,48.428 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#80B7D5" points="223.678,96.854 223.678,64.57 251.638,80.713 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#71AED0" points="195.719,80.712 223.679,96.854 223.679,64.569 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#E7F2F7" points="307.558,16.142 335.518,32.285 335.518,0 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#D9E9F2" points="307.558,48.427 307.558,16.142 335.518,32.285 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#DCDDE0" points="0,64.57 27.96,48.428 0,32.285 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#D1D3D7" points="27.959,80.712 -0.001,64.57 27.959,48.427 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#C7C8CE" points="55.919,64.57 27.959,80.712 27.959,48.428 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#BCBEC5" points="55.919,96.855 55.919,64.57 27.959,80.713 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#B2B4BC" points="83.879,80.712 55.919,96.854 55.919,64.569 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#9CA0A9" points="83.879,112.998 83.879,80.712 55.919,96.855 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#9296A0" points="111.839,96.855 83.879,112.997 83.879,80.713 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#DCDDE0" points="27.96,48.427 55.92,32.285 27.96,16.142 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#D1D3D7" points="55.919,64.57 27.959,48.428 55.919,32.285 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#C7C8CE" points="83.879,48.427 55.919,64.569 55.919,32.284 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#BCBEC5" points="83.879,80.712 83.879,48.427 55.919,64.57 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#B2B4BC" points="111.839,64.57 83.879,80.712 83.879,48.428 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#9CA0A9" points="111.839,96.854 111.839,64.57 83.879,80.713 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#9296A0" points="139.798,80.712 111.838,96.854 111.838,64.569 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#F1F1F2" points="27.959,16.142 0,32.285 0,0 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#E6E7E9" points="27.959,48.427 27.959,16.142 -0.001,32.285 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#6A6E7A" points="83.878,209.853 111.839,193.709 83.878,177.567 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#888C97" points="111.839,129.14 83.879,112.998 111.839,96.855 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#7D828E" points="83.879,145.282 111.839,129.14 83.879,112.997 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#737884" points="139.798,145.282 111.838,129.14 139.798,112.997 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#888C97" points="139.798,112.998 111.838,96.855 139.798,80.712 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#7D828E" points="111.839,129.14 139.799,112.998 111.839,96.855 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#63A6CB" points="223.679,129.14 251.639,112.998 223.679,96.855 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#4595C2" points="195.719,145.282 223.679,129.14 195.719,112.997 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#63A6CB" points="195.719,112.998 223.679,96.855 195.719,80.712 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#549EC6" points="223.679,129.14 195.718,112.998 223.679,96.855 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#4595C2" points="195.719,177.566 195.719,145.282 223.679,161.425 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#3C8BB7" points="223.679,161.425 251.639,177.567 251.639,145.282 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#4595C2" points="223.679,193.71 223.679,161.425 251.639,177.567 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#3C8BB7" points="223.678,193.71 195.718,177.567 223.678,161.425 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#6A6E7A" points="111.838,193.709 139.798,177.567 111.838,161.424 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#737884" points="111.838,193.71 83.878,177.566 111.838,161.424 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#7D828E" points="83.878,177.566 111.838,161.425 83.878,145.282 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#737884" points="139.797,177.566 111.837,161.425 139.797,145.282 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#80B7D5" points="27.959,177.567 55.919,161.426 27.959,145.283 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#8FBFDA" points="27.959,177.567 0,161.425 27.959,145.283 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#63A6CB" points="55.919,193.711 27.959,177.569 55.919,161.426 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#80B7D5" points="-0.001,193.711 27.958,177.569 -0.001,161.426 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#C7C8CE" points="307.558,177.567 279.597,161.426 307.558,145.283 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#D1D3D7" points="307.558,177.567 335.517,161.425 307.558,145.283 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#BCBEC5" points="279.598,193.71 307.558,177.567 279.598,161.425 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#C7C8CE" points="335.517,193.71 307.558,177.567 335.517,161.426 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#888C97" points="111.837,161.424 83.877,145.282 111.837,129.139 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#7D828E" points="111.838,161.424 139.798,145.281 111.838,129.139 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#C7C8CE" points="307.556,209.853 279.597,193.71 307.556,177.567 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#BCBEC5" points="279.597,225.995 307.556,209.853 279.597,193.71 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#B2B4BC" points="307.556,242.138 279.597,225.995 307.556,209.853 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#A7AAB3" points="279.597,258.28 307.556,242.138 279.597,225.995 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#DCDDE0" points="307.557,145.283 279.597,129.141 307.557,112.998 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#D1D3D7" points="279.598,161.425 307.558,145.283 279.598,129.141 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#DCDDE0" points="335.517,161.425 307.557,145.283 335.517,129.141 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#D1D3D7" points="307.557,209.853 335.517,193.71 307.557,177.567 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#C7C8CE" points="335.516,225.995 307.556,209.853 335.516,193.71 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#BCBEC5" points="307.557,242.138 335.517,225.995 307.557,209.853 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#F1F1F2" points="335.517,129.14 307.557,112.997 335.517,96.855 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#E6E7E9" points="307.558,145.283 335.518,129.141 307.558,112.998 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#737784" points="251.637,306.707 223.677,290.564 251.637,274.423 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#6A6E7A" points="223.677,322.85 251.637,306.707 223.677,290.564 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#616570" points="195.718,306.707 223.678,322.85 223.678,290.564 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#585B65" points="195.717,338.992 195.717,306.707 223.677,322.85 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#4F525B" points="167.758,322.85 195.718,338.993 195.718,306.708 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#464850" points="167.757,355.135 167.757,322.85 195.716,338.993 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#3C3F46" points="139.798,338.992 167.758,355.135 167.758,322.85 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#737784" points="223.677,290.564 195.717,274.423 223.677,258.279 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#6A6E7A" points="195.717,306.707 223.677,290.564 195.717,274.422 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#616570" points="167.758,290.564 195.718,306.708 195.718,274.423 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#585B65" points="167.757,322.85 167.757,290.564 195.717,306.708 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#4F525B" points="139.798,306.707 167.758,322.85 167.758,290.564 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#464850" points="139.797,338.992 139.797,306.707 167.758,322.85 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#3C3F46" points="111.838,322.85 139.798,338.993 139.798,306.708 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#9DA0A9" points="251.637,242.138 279.597,258.279 279.597,225.994 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#9296A0" points="251.637,274.422 251.637,242.138 279.597,258.279 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#888C97" points="223.677,258.279 251.637,274.423 251.637,242.138 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#7D818E" points="223.677,290.564 223.677,258.279 251.637,274.422 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#B2B4BC" points="335.516,258.28 307.556,242.138 335.516,225.995 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#A7AAB3" points="307.557,274.423 335.517,258.279 307.557,242.138 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#9DA0A9" points="279.597,258.28 307.557,274.423 307.557,242.138 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#9296A0" points="279.596,290.565 279.596,258.28 307.556,274.422 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#888C97" points="251.637,274.423 279.597,290.565 279.597,258.279 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#7D818E" points="251.637,306.708 251.637,274.423 279.597,290.564 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#80B7D5" points="27.959,209.853 55.919,193.71 27.959,177.567 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#63A6CB" points="55.918,225.995 27.959,209.853 55.918,193.71 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#4595C2" points="27.959,242.138 55.919,225.996 27.959,209.853 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#63A6CB" points="55.918,258.28 27.959,242.138 55.918,225.995 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#9EC8DF" points="27.959,145.283 55.919,129.14 27.959,112.998 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#8FBFDA" points="55.919,161.426 27.959,145.284 55.919,129.141 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#9EC8DF" points="-0.001,161.426 27.958,145.284 -0.001,129.141 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#8FBFDA" points="27.958,209.853 -0.002,193.71 27.958,177.567 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#80B7D5" points="-0.001,225.995 27.959,209.854 -0.001,193.71 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#63A6CB" points="27.958,242.138 -0.002,225.996 27.958,209.853 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#BBD8E9" points="-0.001,129.141 27.958,112.998 -0.001,96.855 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#ACD0E4" points="27.959,145.283 0,129.141 27.959,112.998 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#3C8BB7" points="83.878,306.707 111.838,290.564 83.878,274.423 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#2E698A" points="111.838,290.564 139.797,274.423 111.838,258.279 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#549EC6" points="83.877,242.138 55.918,258.279 55.918,225.994 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#4595C2" points="83.878,274.422 83.878,242.138 55.917,258.279 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#2E698A" points="111.837,258.279 83.877,274.423 83.877,242.138 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#3780A8" points="111.837,290.564 111.837,258.279 83.877,274.422 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#4595C2" points="-0.001,258.28 27.959,242.138 -0.001,225.995 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#63A6CB" points="27.958,274.423 -0.002,258.279 27.958,242.138 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#549EC6" points="55.918,258.28 27.958,274.423 27.958,242.138 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#4595C2" points="55.918,290.565 55.918,258.28 27.959,274.422 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#549EC6" points="83.878,274.423 55.917,290.565 55.917,258.279 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#4595C2" points="83.878,306.708 83.878,274.423 55.918,290.564 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#337599" points="223.677,225.995 195.717,209.853 223.677,193.71 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#2E698A" points="195.718,242.138 223.678,225.995 195.718,209.853 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#295E7C" points="167.758,225.995 195.718,242.137 195.718,209.853 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#24536D" points="167.757,258.28 167.757,225.995 195.717,242.138 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#1F485E" points="139.798,242.138 167.758,258.279 167.758,225.995 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#24536D" points="139.798,274.423 139.798,242.138 167.758,258.279 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#295E7C" points="111.838,258.28 139.797,274.423 139.797,242.138 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#337599" points="195.717,209.853 167.757,193.71 195.717,177.567 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#2E698A" points="167.758,225.995 195.718,209.853 167.758,193.71 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#295E7C" points="139.798,209.853 167.758,225.995 167.758,193.71 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#24536D" points="139.797,242.138 139.797,209.853 167.758,225.995 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#1F485E" points="111.838,225.995 139.797,242.137 139.797,209.853 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#24536D" points="111.838,258.279 111.838,225.995 139.798,242.138 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#295E7C" points="83.878,242.138 111.838,258.279 111.838,225.995 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#549EC6" points="223.679,129.14 251.639,145.282 251.639,112.998 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#4595C2" points="223.678,161.425 223.678,129.14 251.638,145.283 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#3C8BB7" points="195.719,145.283 223.679,161.425 223.679,129.14 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#3780A8" points="195.718,209.853 195.718,177.567 223.678,193.709 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#3C8BB7" points="223.677,193.71 251.637,209.853 251.637,177.567 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#3780A8" points="223.677,225.995 223.677,193.71 251.637,209.853 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#CAE1ED" points="335.517,64.57 307.558,48.428 335.517,32.285 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#BBD8E9" points="307.558,80.712 335.517,64.57 307.558,48.427 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#ACD0E4" points="279.598,64.57 307.558,80.712 307.558,48.428 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#9EC8DF" points="279.598,96.855 279.598,64.57 307.558,80.713 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#8FBFDA" points="251.638,80.712 279.598,96.854 279.598,64.569 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#80B7D5" points="251.638,112.998 251.638,80.712 279.598,96.855 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#71AED0" points="223.679,96.855 251.639,112.997 251.639,80.713 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#CAE1ED" points="307.558,48.427 279.597,32.285 307.558,16.142 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#BBD8E9" points="279.598,64.57 307.558,48.428 279.598,32.285 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#ACD0E4" points="251.638,48.427 279.598,64.569 279.598,32.284 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#9EC8DF" points="251.638,80.712 251.638,48.427 279.598,64.57 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#8FBFDA" points="223.679,64.57 251.639,80.712 251.639,48.428 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#80B7D5" points="223.678,96.854 223.678,64.57 251.638,80.713 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#71AED0" points="195.719,80.712 223.679,96.854 223.679,64.569 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#E7F2F7" points="307.558,16.142 335.518,32.285 335.518,0 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#D9E9F2" points="307.558,48.427 307.558,16.142 335.518,32.285 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#DCDDE0" points="0,64.57 27.96,48.428 0,32.285 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#D1D3D7" points="27.959,80.712 -0.001,64.57 27.959,48.427 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#C7C8CE" points="55.919,64.57 27.959,80.712 27.959,48.428 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#BCBEC5" points="55.919,96.855 55.919,64.57 27.959,80.713 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#B2B4BC" points="83.879,80.712 55.919,96.854 55.919,64.569 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#9CA0A9" points="83.879,112.998 83.879,80.712 55.919,96.855 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#9296A0" points="111.839,96.855 83.879,112.997 83.879,80.713 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#DCDDE0" points="27.96,48.427 55.92,32.285 27.96,16.142 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#D1D3D7" points="55.919,64.57 27.959,48.428 55.919,32.285 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#C7C8CE" points="83.879,48.427 55.919,64.569 55.919,32.284 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#BCBEC5" points="83.879,80.712 83.879,48.427 55.919,64.57 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#B2B4BC" points="111.839,64.57 83.879,80.712 83.879,48.428 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#9CA0A9" points="111.839,96.854 111.839,64.57 83.879,80.713 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#9296A0" points="139.798,80.712 111.838,96.854 111.838,64.569 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#F1F1F2" points="27.959,16.142 0,32.285 0,0 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#E6E7E9" points="27.959,48.427 27.959,16.142 -0.001,32.285 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#6A6E7A" points="83.878,209.853 111.839,193.709 83.878,177.567 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#888C97" points="111.839,129.14 83.879,112.998 111.839,96.855 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#7D828E" points="83.879,145.282 111.839,129.14 83.879,112.997 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#737884" points="139.798,145.282 111.838,129.14 139.798,112.997 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#888C97" points="139.798,112.998 111.838,96.855 139.798,80.712 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#7D828E" points="111.839,129.14 139.799,112.998 111.839,96.855 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#63A6CB" points="223.679,129.14 251.639,112.998 223.679,96.855 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#4595C2" points="195.719,145.282 223.679,129.14 195.719,112.997 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#63A6CB" points="195.719,112.998 223.679,96.855 195.719,80.712 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#549EC6" points="223.679,129.14 195.718,112.998 223.679,96.855 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#4595C2" points="195.719,177.566 195.719,145.282 223.679,161.425 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#3C8BB7" points="223.679,161.425 251.639,177.567 251.639,145.282 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#4595C2" points="223.679,193.71 223.679,161.425 251.639,177.567 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#3C8BB7" points="223.678,193.71 195.718,177.567 223.678,161.425 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#6A6E7A" points="111.838,193.709 139.798,177.567 111.838,161.424 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#737884" points="111.838,193.71 83.878,177.566 111.838,161.424 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#7D828E" points="83.878,177.566 111.838,161.425 83.878,145.282 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#737884" points="139.797,177.566 111.837,161.425 139.797,145.282 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#80B7D5" points="27.959,177.567 55.919,161.426 27.959,145.283 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#8FBFDA" points="27.959,177.567 0,161.425 27.959,145.283 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#63A6CB" points="55.919,193.711 27.959,177.569 55.919,161.426 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#80B7D5" points="-0.001,193.711 27.958,177.569 -0.001,161.426 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#C7C8CE" points="307.558,177.567 279.597,161.426 307.558,145.283 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#D1D3D7" points="307.558,177.567 335.517,161.425 307.558,145.283 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#BCBEC5" points="279.598,193.71 307.558,177.567 279.598,161.425 		"></polygon>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#C7C8CE" points="335.517,193.71 307.558,177.567 335.517,161.426 		"></polygon>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#888C97" points="111.837,161.424 83.877,145.282 111.837,129.139 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#7D828E" points="111.838,161.424 139.798,145.281 111.838,129.139 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#C7C8CE" points="307.556,209.853 279.597,193.71 307.556,177.567 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#BCBEC5" points="279.597,225.995 307.556,209.853 279.597,193.71 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#B2B4BC" points="307.556,242.138 279.597,225.995 307.556,209.853 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#A7AAB3" points="279.597,258.28 307.556,242.138 279.597,225.995 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#DCDDE0" points="307.557,145.283 279.597,129.141 307.557,112.998 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#D1D3D7" points="279.598,161.425 307.558,145.283 279.598,129.141 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#DCDDE0" points="335.517,161.425 307.557,145.283 335.517,129.141 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#D1D3D7" points="307.557,209.853 335.517,193.71 307.557,177.567 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#C7C8CE" points="335.516,225.995 307.556,209.853 335.516,193.71 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#BCBEC5" points="307.557,242.138 335.517,225.995 307.557,209.853 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#F1F1F2" points="335.517,129.14 307.557,112.997 335.517,96.855 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#E6E7E9" points="307.558,145.283 335.518,129.141 307.558,112.998 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#737784" points="251.637,306.707 223.677,290.564 251.637,274.423 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#6A6E7A" points="223.677,322.85 251.637,306.707 223.677,290.564 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#616570" points="195.718,306.707 223.678,322.85 223.678,290.564 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#585B65" points="195.717,338.992 195.717,306.707 223.677,322.85 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#4F525B" points="167.758,322.85 195.718,338.993 195.718,306.708 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#464850" points="167.757,355.135 167.757,322.85 195.716,338.993 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#3C3F46" points="139.798,338.992 167.758,355.135 167.758,322.85 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#737784" points="223.677,290.564 195.717,274.423 223.677,258.279 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#6A6E7A" points="195.717,306.707 223.677,290.564 195.717,274.422 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#616570" points="167.758,290.564 195.718,306.708 195.718,274.423 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#585B65" points="167.757,322.85 167.757,290.564 195.717,306.708 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#4F525B" points="139.798,306.707 167.758,322.85 167.758,290.564 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#464850" points="139.797,338.992 139.797,306.707 167.758,322.85 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#3C3F46" points="111.838,322.85 139.798,338.993 139.798,306.708 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#9DA0A9" points="251.637,242.138 279.597,258.279 279.597,225.994 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#9296A0" points="251.637,274.422 251.637,242.138 279.597,258.279 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#888C97" points="223.677,258.279 251.637,274.423 251.637,242.138 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#7D818E" points="223.677,290.564 223.677,258.279 251.637,274.422 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#B2B4BC" points="335.516,258.28 307.556,242.138 335.516,225.995 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#A7AAB3" points="307.557,274.423 335.517,258.279 307.557,242.138 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#9DA0A9" points="279.597,258.28 307.557,274.423 307.557,242.138 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#9296A0" points="279.596,290.565 279.596,258.28 307.556,274.422 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#888C97" points="251.637,274.423 279.597,290.565 279.597,258.279 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#7D818E" points="251.637,306.708 251.637,274.423 279.597,290.564 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#80B7D5" points="27.959,209.853 55.919,193.71 27.959,177.567 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#63A6CB" points="55.918,225.995 27.959,209.853 55.918,193.71 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#4595C2" points="27.959,242.138 55.919,225.996 27.959,209.853 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#63A6CB" points="55.918,258.28 27.959,242.138 55.918,225.995 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#9EC8DF" points="27.959,145.283 55.919,129.14 27.959,112.998 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#8FBFDA" points="55.919,161.426 27.959,145.284 55.919,129.141 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#9EC8DF" points="-0.001,161.426 27.958,145.284 -0.001,129.141 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#8FBFDA" points="27.958,209.853 -0.002,193.71 27.958,177.567 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#80B7D5" points="-0.001,225.995 27.959,209.854 -0.001,193.71 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#63A6CB" points="27.958,242.138 -0.002,225.996 27.958,209.853 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#BBD8E9" points="-0.001,129.141 27.958,112.998 -0.001,96.855 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#ACD0E4" points="27.959,145.283 0,129.141 27.959,112.998 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#3C8BB7" points="83.878,306.707 111.838,290.564 83.878,274.423 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#2E698A" points="111.838,290.564 139.797,274.423 111.838,258.279 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#549EC6" points="83.877,242.138 55.918,258.279 55.918,225.994 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#4595C2" points="83.878,274.422 83.878,242.138 55.917,258.279 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#2E698A" points="111.837,258.279 83.877,274.423 83.877,242.138 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#3780A8" points="111.837,290.564 111.837,258.279 83.877,274.422 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#4595C2" points="-0.001,258.28 27.959,242.138 -0.001,225.995 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#63A6CB" points="27.958,274.423 -0.002,258.279 27.958,242.138 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#549EC6" points="55.918,258.28 27.958,274.423 27.958,242.138 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#4595C2" points="55.918,290.565 55.918,258.28 27.959,274.422 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#549EC6" points="83.878,274.423 55.917,290.565 55.917,258.279 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#4595C2" points="83.878,306.708 83.878,274.423 55.918,290.564 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#337599" points="223.677,225.995 195.717,209.853 223.677,193.71 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#2E698A" points="195.718,242.138 223.678,225.995 195.718,209.853 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#295E7C" points="167.758,225.995 195.718,242.137 195.718,209.853 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#24536D" points="167.757,258.28 167.757,225.995 195.717,242.138 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#1F485E" points="139.798,242.138 167.758,258.279 167.758,225.995 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#24536D" points="139.798,274.423 139.798,242.138 167.758,258.279 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#295E7C" points="111.838,258.28 139.797,274.423 139.797,242.138 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#337599" points="195.717,209.853 167.757,193.71 195.717,177.567 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#2E698A" points="167.758,225.995 195.718,209.853 167.758,193.71 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#295E7C" points="139.798,209.853 167.758,225.995 167.758,193.71 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#24536D" points="139.797,242.138 139.797,209.853 167.758,225.995 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#1F485E" points="111.838,225.995 139.797,242.137 139.797,209.853 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#24536D" points="111.838,258.279 111.838,225.995 139.798,242.138 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#295E7C" points="83.878,242.138 111.838,258.279 111.838,225.995 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#549EC6" points="223.679,129.14 251.639,145.282 251.639,112.998 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#4595C2" points="223.678,161.425 223.678,129.14 251.638,145.283 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#3C8BB7" points="195.719,145.283 223.679,161.425 223.679,129.14 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#3780A8" points="195.718,209.853 195.718,177.567 223.678,193.709 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#3C8BB7" points="223.677,193.71 251.637,209.853 251.637,177.567 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#3780A8" points="223.677,225.995 223.677,193.71 251.637,209.853 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#CAE1ED" points="335.517,64.57 307.558,48.428 335.517,32.285 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#BBD8E9" points="307.558,80.712 335.517,64.57 307.558,48.427 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#ACD0E4" points="279.598,64.57 307.558,80.712 307.558,48.428 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#9EC8DF" points="279.598,96.855 279.598,64.57 307.558,80.713 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#8FBFDA" points="251.638,80.712 279.598,96.854 279.598,64.569 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#80B7D5" points="251.638,112.998 251.638,80.712 279.598,96.855 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#71AED0" points="223.679,96.855 251.639,112.997 251.639,80.713 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#CAE1ED" points="307.558,48.427 279.597,32.285 307.558,16.142 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#BBD8E9" points="279.598,64.57 307.558,48.428 279.598,32.285 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#ACD0E4" points="251.638,48.427 279.598,64.569 279.598,32.284 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#9EC8DF" points="251.638,80.712 251.638,48.427 279.598,64.57 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#8FBFDA" points="223.679,64.57 251.639,80.712 251.639,48.428 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#80B7D5" points="223.678,96.854 223.678,64.57 251.638,80.713 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#71AED0" points="195.719,80.712 223.679,96.854 223.679,64.569 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#E7F2F7" points="307.558,16.142 335.518,32.285 335.518,0 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#D9E9F2" points="307.558,48.427 307.558,16.142 335.518,32.285 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#DCDDE0" points="0,64.57 27.96,48.428 0,32.285 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#D1D3D7" points="27.959,80.712 -0.001,64.57 27.959,48.427 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#C7C8CE" points="55.919,64.57 27.959,80.712 27.959,48.428 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#BCBEC5" points="55.919,96.855 55.919,64.57 27.959,80.713 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#B2B4BC" points="83.879,80.712 55.919,96.854 55.919,64.569 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#9CA0A9" points="83.879,112.998 83.879,80.712 55.919,96.855 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#9296A0" points="111.839,96.855 83.879,112.997 83.879,80.713 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#DCDDE0" points="27.96,48.427 55.92,32.285 27.96,16.142 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#D1D3D7" points="55.919,64.57 27.959,48.428 55.919,32.285 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#C7C8CE" points="83.879,48.427 55.919,64.569 55.919,32.284 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#BCBEC5" points="83.879,80.712 83.879,48.427 55.919,64.57 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#B2B4BC" points="111.839,64.57 83.879,80.712 83.879,48.428 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#9CA0A9" points="111.839,96.854 111.839,64.57 83.879,80.713 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#9296A0" points="139.798,80.712 111.838,96.854 111.838,64.569 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#F1F1F2" points="27.959,16.142 0,32.285 0,0 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#E6E7E9" points="27.959,48.427 27.959,16.142 -0.001,32.285 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#6A6E7A" points="83.878,209.853 111.839,193.709 83.878,177.567 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#888C97" points="111.839,129.14 83.879,112.998 111.839,96.855 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#7D828E" points="83.879,145.282 111.839,129.14 83.879,112.997 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#737884" points="139.798,145.282 111.838,129.14 139.798,112.997 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#888C97" points="139.798,112.998 111.838,96.855 139.798,80.712 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#7D828E" points="111.839,129.14 139.799,112.998 111.839,96.855 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#63A6CB" points="223.679,129.14 251.639,112.998 223.679,96.855 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#4595C2" points="195.719,145.282 223.679,129.14 195.719,112.997 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#63A6CB" points="195.719,112.998 223.679,96.855 195.719,80.712 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#549EC6" points="223.679,129.14 195.718,112.998 223.679,96.855 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#4595C2" points="195.719,177.566 195.719,145.282 223.679,161.425 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#3C8BB7" points="223.679,161.425 251.639,177.567 251.639,145.282 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#4595C2" points="223.679,193.71 223.679,161.425 251.639,177.567 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#3C8BB7" points="223.678,193.71 195.718,177.567 223.678,161.425 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#6A6E7A" points="111.838,193.709 139.798,177.567 111.838,161.424 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#737884" points="111.838,193.71 83.878,177.566 111.838,161.424 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#7D828E" points="83.878,177.566 111.838,161.425 83.878,145.282 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#737884" points="139.797,177.566 111.837,161.425 139.797,145.282 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#80B7D5" points="27.959,177.567 55.919,161.426 27.959,145.283 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#8FBFDA" points="27.959,177.567 0,161.425 27.959,145.283 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#63A6CB" points="55.919,193.711 27.959,177.569 55.919,161.426 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#80B7D5" points="-0.001,193.711 27.958,177.569 -0.001,161.426 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#C7C8CE" points="307.558,177.567 279.597,161.426 307.558,145.283 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#D1D3D7" points="307.558,177.567 335.517,161.425 307.558,145.283 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#BCBEC5" points="279.598,193.71 307.558,177.567 279.598,161.425 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#C7C8CE" points="335.517,193.71 307.558,177.567 335.517,161.426 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#888C97" points="111.837,161.424 83.877,145.282 111.837,129.139 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#7D828E" points="111.838,161.424 139.798,145.281 111.838,129.139 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#C7C8CE" points="307.556,209.853 279.597,193.71 307.556,177.567 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#BCBEC5" points="279.597,225.995 307.556,209.853 279.597,193.71 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#B2B4BC" points="307.556,242.138 279.597,225.995 307.556,209.853 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#A7AAB3" points="279.597,258.28 307.556,242.138 279.597,225.995 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#DCDDE0" points="307.557,145.283 279.597,129.141 307.557,112.998 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#D1D3D7" points="279.598,161.425 307.558,145.283 279.598,129.141 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#DCDDE0" points="335.517,161.425 307.557,145.283 335.517,129.141 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#D1D3D7" points="307.557,209.853 335.517,193.71 307.557,177.567 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#C7C8CE" points="335.516,225.995 307.556,209.853 335.516,193.71 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#BCBEC5" points="307.557,242.138 335.517,225.995 307.557,209.853 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#F1F1F2" points="335.517,129.14 307.557,112.997 335.517,96.855 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#E6E7E9" points="307.558,145.283 335.518,129.141 307.558,112.998 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#737784" points="251.637,306.707 223.677,290.564 251.637,274.423 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#6A6E7A" points="223.677,322.85 251.637,306.707 223.677,290.564 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#616570" points="195.718,306.707 223.678,322.85 223.678,290.564 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#585B65" points="195.717,338.992 195.717,306.707 223.677,322.85 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#4F525B" points="167.758,322.85 195.718,338.993 195.718,306.708 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#464850" points="167.757,355.135 167.757,322.85 195.716,338.993 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#3C3F46" points="139.798,338.992 167.758,355.135 167.758,322.85 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#737784" points="223.677,290.564 195.717,274.423 223.677,258.279 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#6A6E7A" points="195.717,306.707 223.677,290.564 195.717,274.422 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#616570" points="167.758,290.564 195.718,306.708 195.718,274.423 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#585B65" points="167.757,322.85 167.757,290.564 195.717,306.708 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#4F525B" points="139.798,306.707 167.758,322.85 167.758,290.564 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#464850" points="139.797,338.992 139.797,306.707 167.758,322.85 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#3C3F46" points="111.838,322.85 139.798,338.993 139.798,306.708 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#9DA0A9" points="251.637,242.138 279.597,258.279 279.597,225.994 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#9296A0" points="251.637,274.422 251.637,242.138 279.597,258.279 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#888C97" points="223.677,258.279 251.637,274.423 251.637,242.138 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#7D818E" points="223.677,290.564 223.677,258.279 251.637,274.422 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#B2B4BC" points="335.516,258.28 307.556,242.138 335.516,225.995 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#A7AAB3" points="307.557,274.423 335.517,258.279 307.557,242.138 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#9DA0A9" points="279.597,258.28 307.557,274.423 307.557,242.138 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#9296A0" points="279.596,290.565 279.596,258.28 307.556,274.422 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#888C97" points="251.637,274.423 279.597,290.565 279.597,258.279 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#7D818E" points="251.637,306.708 251.637,274.423 279.597,290.564 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#80B7D5" points="27.959,209.853 55.919,193.71 27.959,177.567 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#63A6CB" points="55.918,225.995 27.959,209.853 55.918,193.71 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#4595C2" points="27.959,242.138 55.919,225.996 27.959,209.853 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#63A6CB" points="55.918,258.28 27.959,242.138 55.918,225.995 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#9EC8DF" points="27.959,145.283 55.919,129.14 27.959,112.998 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#8FBFDA" points="55.919,161.426 27.959,145.284 55.919,129.141 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#9EC8DF" points="-0.001,161.426 27.958,145.284 -0.001,129.141 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#8FBFDA" points="27.958,209.853 -0.002,193.71 27.958,177.567 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#80B7D5" points="-0.001,225.995 27.959,209.854 -0.001,193.71 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#63A6CB" points="27.958,242.138 -0.002,225.996 27.958,209.853 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#BBD8E9" points="-0.001,129.141 27.958,112.998 -0.001,96.855 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#ACD0E4" points="27.959,145.283 0,129.141 27.959,112.998 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#3C8BB7" points="83.878,306.707 111.838,290.564 83.878,274.423 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#2E698A" points="111.838,290.564 139.797,274.423 111.838,258.279 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#549EC6" points="83.877,242.138 55.918,258.279 55.918,225.994 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#4595C2" points="83.878,274.422 83.878,242.138 55.917,258.279 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#2E698A" points="111.837,258.279 83.877,274.423 83.877,242.138 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#3780A8" points="111.837,290.564 111.837,258.279 83.877,274.422 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#4595C2" points="-0.001,258.28 27.959,242.138 -0.001,225.995 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#63A6CB" points="27.958,274.423 -0.002,258.279 27.958,242.138 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#549EC6" points="55.918,258.28 27.958,274.423 27.958,242.138 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#4595C2" points="55.918,290.565 55.918,258.28 27.959,274.422 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#549EC6" points="83.878,274.423 55.917,290.565 55.917,258.279 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#4595C2" points="83.878,306.708 83.878,274.423 55.918,290.564 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#337599" points="223.677,225.995 195.717,209.853 223.677,193.71 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#2E698A" points="195.718,242.138 223.678,225.995 195.718,209.853 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#295E7C" points="167.758,225.995 195.718,242.137 195.718,209.853 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#24536D" points="167.757,258.28 167.757,225.995 195.717,242.138 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#1F485E" points="139.798,242.138 167.758,258.279 167.758,225.995 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#24536D" points="139.798,274.423 139.798,242.138 167.758,258.279 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#295E7C" points="111.838,258.28 139.797,274.423 139.797,242.138 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#337599" points="195.717,209.853 167.757,193.71 195.717,177.567 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#2E698A" points="167.758,225.995 195.718,209.853 167.758,193.71 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#295E7C" points="139.798,209.853 167.758,225.995 167.758,193.71 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#24536D" points="139.797,242.138 139.797,209.853 167.758,225.995 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#1F485E" points="111.838,225.995 139.797,242.137 139.797,209.853 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#24536D" points="111.838,258.279 111.838,225.995 139.798,242.138 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#295E7C" points="83.878,242.138 111.838,258.279 111.838,225.995 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#549EC6" points="223.679,129.14 251.639,145.282 251.639,112.998 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#4595C2" points="223.678,161.425 223.678,129.14 251.638,145.283 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#3C8BB7" points="195.719,145.283 223.679,161.425 223.679,129.14 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#3780A8" points="195.718,209.853 195.718,177.567 223.678,193.709 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#3C8BB7" points="223.677,193.71 251.637,209.853 251.637,177.567 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#3780A8" points="223.677,225.995 223.677,193.71 251.637,209.853 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#CAE1ED" points="335.517,64.57 307.558,48.428 335.517,32.285 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#BBD8E9" points="307.558,80.712 335.517,64.57 307.558,48.427 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#ACD0E4" points="279.598,64.57 307.558,80.712 307.558,48.428 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#9EC8DF" points="279.598,96.855 279.598,64.57 307.558,80.713 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#8FBFDA" points="251.638,80.712 279.598,96.854 279.598,64.569 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#80B7D5" points="251.638,112.998 251.638,80.712 279.598,96.855 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#71AED0" points="223.679,96.855 251.639,112.997 251.639,80.713 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#CAE1ED" points="307.558,48.427 279.597,32.285 307.558,16.142 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#BBD8E9" points="279.598,64.57 307.558,48.428 279.598,32.285 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#ACD0E4" points="251.638,48.427 279.598,64.569 279.598,32.284 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#9EC8DF" points="251.638,80.712 251.638,48.427 279.598,64.57 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#8FBFDA" points="223.679,64.57 251.639,80.712 251.639,48.428 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#80B7D5" points="223.678,96.854 223.678,64.57 251.638,80.713 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#71AED0" points="195.719,80.712 223.679,96.854 223.679,64.569 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#E7F2F7" points="307.558,16.142 335.518,32.285 335.518,0 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#D9E9F2" points="307.558,48.427 307.558,16.142 335.518,32.285 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#DCDDE0" points="0,64.57 27.96,48.428 0,32.285 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#D1D3D7" points="27.959,80.712 -0.001,64.57 27.959,48.427 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#C7C8CE" points="55.919,64.57 27.959,80.712 27.959,48.428 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#BCBEC5" points="55.919,96.855 55.919,64.57 27.959,80.713 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#B2B4BC" points="83.879,80.712 55.919,96.854 55.919,64.569 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#9CA0A9" points="83.879,112.998 83.879,80.712 55.919,96.855 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#9296A0" points="111.839,96.855 83.879,112.997 83.879,80.713 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#DCDDE0" points="27.96,48.427 55.92,32.285 27.96,16.142 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#D1D3D7" points="55.919,64.57 27.959,48.428 55.919,32.285 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#C7C8CE" points="83.879,48.427 55.919,64.569 55.919,32.284 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#BCBEC5" points="83.879,80.712 83.879,48.427 55.919,64.57 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#B2B4BC" points="111.839,64.57 83.879,80.712 83.879,48.428 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#9CA0A9" points="111.839,96.854 111.839,64.57 83.879,80.713 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#9296A0" points="139.798,80.712 111.838,96.854 111.838,64.569 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#F1F1F2" points="27.959,16.142 0,32.285 0,0 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#E6E7E9" points="27.959,48.427 27.959,16.142 -0.001,32.285 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#6A6E7A" points="83.878,209.853 111.839,193.709 83.878,177.567 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#888C97" points="111.839,129.14 83.879,112.998 111.839,96.855 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#7D828E" points="83.879,145.282 111.839,129.14 83.879,112.997 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#737884" points="139.798,145.282 111.838,129.14 139.798,112.997 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#888C97" points="139.798,112.998 111.838,96.855 139.798,80.712 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#7D828E" points="111.839,129.14 139.799,112.998 111.839,96.855 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#63A6CB" points="223.679,129.14 251.639,112.998 223.679,96.855 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#4595C2" points="195.719,145.282 223.679,129.14 195.719,112.997 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#63A6CB" points="195.719,112.998 223.679,96.855 195.719,80.712 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#549EC6" points="223.679,129.14 195.718,112.998 223.679,96.855 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#4595C2" points="195.719,177.566 195.719,145.282 223.679,161.425 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#3C8BB7" points="223.679,161.425 251.639,177.567 251.639,145.282 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#4595C2" points="223.679,193.71 223.679,161.425 251.639,177.567 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#3C8BB7" points="223.678,193.71 195.718,177.567 223.678,161.425 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#6A6E7A" points="111.838,193.709 139.798,177.567 111.838,161.424 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#737884" points="111.838,193.71 83.878,177.566 111.838,161.424 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#7D828E" points="83.878,177.566 111.838,161.425 83.878,145.282 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#737884" points="139.797,177.566 111.837,161.425 139.797,145.282 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#80B7D5" points="27.959,177.567 55.919,161.426 27.959,145.283 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#8FBFDA" points="27.959,177.567 0,161.425 27.959,145.283 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#63A6CB" points="55.919,193.711 27.959,177.569 55.919,161.426 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#80B7D5" points="-0.001,193.711 27.958,177.569 -0.001,161.426 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#C7C8CE" points="307.558,177.567 279.597,161.426 307.558,145.283 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#D1D3D7" points="307.558,177.567 335.517,161.425 307.558,145.283 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#BCBEC5" points="279.598,193.71 307.558,177.567 279.598,161.425 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#C7C8CE" points="335.517,193.71 307.558,177.567 335.517,161.426 		"/>
 	</g>
 </g>
 </svg>

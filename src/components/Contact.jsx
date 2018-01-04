@@ -8,25 +8,28 @@ export default class Contact extends React.Component {
 				<div className="content full-size colors-h">
 					<div className="container">
 						<h2>Contact</h2>
-						<p className="header-details">Keep In Touch</p>
+						<p className="header-details">Let's do this!</p>
 						<div className="row">
 							<div className="col-md-6">
 								<div className="text-right scroll-in-animation" data-animation="fadeInLeft">
 									<p className="big-font uppercase">
-										Tel: <strong className="highlight">+1 (234) 567-6789</strong>
+										Tel: <strong className="highlight">+61 430 240 055‬</strong>
 									</p>
 									<p className="big-font uppercase">
-										500 Unicorn Park Dr, 21st Floor
-										<br/> Woburn, MA 01801, United States
+										<a href="https://goo.gl/maps/FFyYF4yysvv" target="_blank" rel="noopener noreferrer">
+											Bay 8, Middlemiss Street
+											<br/> Lavender Bay, NSW 2060
+											<br/> Australia
+										</a>
 									</p>
 									<p className="big-font">
 										<b>
-											<a href="mailto:info@ouraddress.com">info@ouraddress.com</a><br/>
-											<a href="https://www.ouraddress.com">www.ouraddress.com</a>
+											<a href="mailto:launch@secure.vote">launch@secure.vote</a><br/>
+											<a href="https://secure.vote">https://secure.vote</a>
 										</b>
 									</p>
 									<p className="big-font">
-										<a rel="noopener noreferrer" target="_blank" href="https://blog.xo1.io/"><span className="fa-stack"><i className="fa fa-circle fa-stack-2x heading"></i><i className="fa fa-medium fa-stack-1x text-background"></i></span></a>                    
+										<a rel="noopener noreferrer" target="_blank" href="https://blog.xo1.io/"><span className="fa-stack"><i className="fa fa-circle fa-stack-2x heading"></i><i className="fa fa-medium fa-stack-1x text-background"></i></span></a>
 										<a rel="noopener noreferrer" target="_blank" href="https://twitter.com/Secure_Vote"><span className="fa-stack"><i className="fa fa-circle fa-stack-2x heading"></i><i className="fa fa-twitter fa-stack-1x text-background"></i></span></a>
 										<a rel="noopener noreferrer" target="_blank" href="https://www.facebook.com/SecureVote/"><span className="fa-stack"><i className="fa fa-circle fa-stack-2x heading"></i><i className="fa fa-facebook fa-stack-1x text-background"></i></span></a>
 										<a rel="noopener noreferrer" target="_blank" href="https://www.linkedin.com/company/18001068/"><span className="fa-stack"><i className="fa fa-circle fa-stack-2x heading"></i><i className="fa fa-linkedin fa-stack-1x text-background"></i></span></a>

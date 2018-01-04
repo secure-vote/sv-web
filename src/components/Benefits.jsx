@@ -6,7 +6,7 @@ export default class Benefits extends React.Component {
     <section>
       <div className="view colors-c">
         <div className="content container">
-          <div className="col-md-8 col-md-offset-2">
+          <div className="col-md-12">
             <h3 className="medium-font-weight">
               <span className="highlight-g">SecureVote</span> is a scalable, reliable, and customisable decentralised governance solution, designed to easily interface
               with any blockchain-based decentralised organisation.</h3>
@@ -54,7 +54,7 @@ export default class Benefits extends React.Component {
 								</div>
 								<div className="col-content">
 									<h4>Promote <span className="highlight"> a strong governance solution from the outset.</span></h4>
-									<p> Praesent sodales, quam vitae gravida interdum, ex mi bibendum enim, sit amet tristique mi quam vel odio. Donec non nunc condimentum, hendrerit elit sed, condimentum magna. Suspendisse imperdiet purus vel ornare cursus.</p>
+									<p>SecureVote can handle sophisticated governance structures and allows you to design a model that works for your ecosystem's needs.</p>
 								</div>
 							</div>
 							<div className="col-md-4">
@@ -75,7 +75,7 @@ export default class Benefits extends React.Component {
 									<p> By making your ecosystem's users a part of the process, a decentralized governance system helps mitigate security classification risk.</p>
 								</div>
 							</div>
-						</div>            
+						</div>
 					</div>
 				</div>
 			</div>
@@ -87,7 +87,7 @@ export default class Benefits extends React.Component {
 							<h2><span className="highlight">Features</span></h2>
 							<div className="row">
 								<div className="col-md-3 top-line">
-									<h4>Secure<br />Votes</h4>
+									<h4>Copperfield</h4>
 									<p className="highlight">Duis ipsum dolor sit amet incididunt ut labore et dolore magna.</p>
 									<p>Consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat.</p>
 									<ul className="simple">
@@ -97,7 +97,7 @@ export default class Benefits extends React.Component {
 									</ul>
 								</div>
 								<div className="col-md-3 top-line">
-									<h4>Secure<br />Votes</h4>
+									<h4>BASL</h4>
 									<p className="highlight">Excepteur ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod.</p>
 									<p>Excepteur sint occaecat elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat.</p>
 									<ul className="simple">
@@ -107,7 +107,7 @@ export default class Benefits extends React.Component {
 									</ul>
 								</div>
 								<div className="col-md-3 top-line">
-									<h4>Secure<br />Votes</h4>
+									<h4>Mobile App</h4>
 									<p className="highlight">Lorem ipsum dolor sit amet, consectetur adipisicing elit eiusmod consequat.</p>
 									<p>Duis aute irure elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat. Exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
 									<ul className="simple">
@@ -133,19 +133,19 @@ export default class Benefits extends React.Component {
 	    </div>
 
 			<div className="view">
-				<img alt className="bg" src="../assets/images/home_5.jpeg" /> <img alt className="bg" src="../assets/images/home_5.jpeg" />
+				<img className="bg" src="../assets/images/home_5.jpeg" /> <img className="bg" src="../assets/images/home_5.jpeg" />
 				<div className="content half-size colors-h">
 					<div className="container">
-						<h3><div className="text-center highlight-a textillate heading hidden-xs hidden-sm" data-textillate-options="{loop:true, in:{effect:'flipInY', sequence:true}, out:{effect:'flipOutY', sequence:true}}">
+						<h2><div className="text-center highlight-a textillate heading hidden-xs hidden-sm" data-textillate-options="{loop:false, in:{effect:'flipInY', sequence:true}, out:{effect:'flipOutY', sequence:true}}">
 							<p className="title">Let's work together to build beautiful democracy</p>
-						</div></h3>
+						</div></h2>
 						<div className="separator"></div>
-						<p className="text-center big-font">
-							<a href="#contact" className="button background-f highlight-f">Contact</a>
+						<p className="text-center">
+							<a href="#contact" className="button button-large background-f highlight-f">Contact</a>
 						</p>
 					</div>
 				</div>
-			</div>			
+			</div>
 		</section>
 		)
 	}

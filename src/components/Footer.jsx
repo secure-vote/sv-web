@@ -7,16 +7,18 @@ export default class Footer extends React.Component {
 			<div className="container scroll-in-animation" data-animation="fadeInDown">
 				<div className="row">
 					<div className="col-md-4">
-						<embed style={{ width: '70%' }} src="../assets/images/logo_text.svg" />
+						<img alt="SecureVote" src="../assets/images/logo_text.svg" />
 						<div className="footer-description">
-							<p>Mauris metus tellus, lacinia nec efficitur quis, rhoncus et mi.</p>
+							<p>Democratize the world.</p>
 						</div>
 						<p className="social-links">
-							<a rel="noopener noreferrer" target="_blank" href="https://blog.xo1.io/"><i className="fa fa-medium"></i></a>              
+							<a rel="noopener noreferrer" target="_blank" href="https://blog.xo1.io/"><i className="fa fa-medium"></i></a>
 							<a rel="noopener noreferrer" target="_blank" href="https://www.facebook.com/SecureVote/"><i className="fa fa-facebook"></i></a>
 							<a rel="noopener noreferrer" target="_blank" href="https://twitter.com/Secure_Vote"><i className="fa fa-twitter"></i></a>
 							<a rel="noopener noreferrer" target="_blank" href="https://www.linkedin.com/company/18001068/"><i className="fa fa-linkedin"></i></a>
 						</p>
+						<div className="separator"></div>
+						<img alt="ADCA" src="../assets/images/Footer-ADCA-logo.png" width="180" />
 					</div>
 					<div className="col-md-4">
 						<h5>Additional Links</h5>

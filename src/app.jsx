@@ -23,7 +23,7 @@ export default class App extends React.Component {
 				<Home />
 				<Benefits />
 				<Team />
-				<Numbers />
+				{/*<Numbers />*/}
 				<Recognise />
 				<Contact />
 				<Footer />
