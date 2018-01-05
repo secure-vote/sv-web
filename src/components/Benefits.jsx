@@ -3,16 +3,7 @@ import React from 'react';
 export default class Benefits extends React.Component {
 	render() {
 		return (
-    <section>
-      <div className="view colors-c">
-        <div className="content container">
-          <div className="col-md-12">
-            <h3 className="medium-font-weight">
-              <span className="highlight-g">SecureVote</span> is a scalable, reliable, and customisable decentralised governance solution, designed to easily interface
-              with any blockchain-based decentralised organisation.</h3>
-          </div>
-        </div>
-      </div>
+		<section id="benefits">
 			<div className="view" id="benefits">
 				<div className="content colors-e background-solid">
 					<div className="container">
@@ -76,73 +67,6 @@ export default class Benefits extends React.Component {
 								</div>
 							</div>
 						</div>
-					</div>
-				</div>
-			</div>
-
-			<div id="features">
-				<div className="view">
-					<div className="content colors-h background-solid">
-						<div className="container">
-							<h2><span className="highlight">Features</span></h2>
-							<div className="row">
-								<div className="col-md-3 top-line">
-									<h4>Copperfield</h4>
-									<p className="highlight">Duis ipsum dolor sit amet incididunt ut labore et dolore magna.</p>
-									<p>Consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat.</p>
-									<ul className="simple">
-	                  <li>Lorem ipsum</li>
-	                  <li> dolor sit</li>
-	                  <li>amet consectetur.</li>
-									</ul>
-								</div>
-								<div className="col-md-3 top-line">
-									<h4>BASL</h4>
-									<p className="highlight">Excepteur ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod.</p>
-									<p>Excepteur sint occaecat elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat.</p>
-									<ul className="simple">
-	                  <li>Lorem ipsum dolor </li>
-	                  <li>sit amet consectetur</li>
-	                  <li> adipisicing elit. Velit!</li>
-									</ul>
-								</div>
-								<div className="col-md-3 top-line">
-									<h4>Mobile App</h4>
-									<p className="highlight">Lorem ipsum dolor sit amet, consectetur adipisicing elit eiusmod consequat.</p>
-									<p>Duis aute irure elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat. Exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-									<ul className="simple">
-	                  <li>Lorem ipsum dolor sit </li>
-	                  <li>amet consectetur adipisicing elit.</li>
-	                  <li> Nihil provident molestiae in.</li>
-									</ul>
-								</div>
-								<div className="col-md-3 top-line">
-									<h4>Secure<br />Votes</h4>
-									<p className="highlight">Commodo ipsum dolor sit amet dolore magna aliqua.</p>
-									<p>Consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat.</p>
-									<ul className="simple">
-	                  <li> consectetur adipisicing elit. </li>
-	                  <li>Lorem ipsum dolor, sit amet</li>
-	                  <li>Facere commodi consequuntur rerum!</li>
-									</ul>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-	    </div>
-
-			<div className="view">
-				<img className="bg" src="../assets/images/home_5.jpeg" /> <img className="bg" src="../assets/images/home_5.jpeg" />
-				<div className="content half-size colors-h">
-					<div className="container">
-						<h2><div className="text-center highlight-a textillate heading hidden-xs hidden-sm" data-textillate-options="{loop:false, in:{effect:'flipInY', sequence:true}, out:{effect:'flipOutY', sequence:true}}">
-							<p className="title">Let's work together to build beautiful democracy</p>
-						</div></h2>
-						<div className="separator"></div>
-						<p className="text-center">
-							<a href="#contact" className="button button-large background-f highlight-f">Contact</a>
-						</p>
 					</div>
 				</div>
 			</div>

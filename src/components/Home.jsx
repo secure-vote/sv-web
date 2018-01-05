@@ -12,7 +12,7 @@ export default class Home extends React.Component {
 							<div className="row">
 								<div className="col-md-8">
 									<embed width="120%" scale="tofit" src="../assets/images/logo_text.svg" />
-									<div className="text-left textillate heading " data-textillate-options="{loop:false, in:{effect:'flipInY', sequence:true}, out:{effect:'flipOutY', sequence:true}}">
+									<div className="text-left textillate heading " data-textillate-options="{loop:false, in:{effect:'flipInY', sequence:true}}">
 										Decentralized governance made easy.
 									</div>
 								</div>

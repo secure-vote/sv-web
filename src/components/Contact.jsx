@@ -5,7 +5,7 @@ export default class Contact extends React.Component {
 		return (
 		<section id="contact">
 			<div className="view">
-				<div className="content full-size colors-h">
+				<div className="content full-size colors-h background-solid">
 					<div className="container">
 						<h2>Contact</h2>
 						<p className="header-details">Let's do this!</p>

@@ -4,16 +4,17 @@ export default class Work extends React.Component {
 	render() {
 		return (
     <section id="recognise">
+			<div className="overlay background-highlight background-overlay scroll-in-animation" data-animation="fadeIn"></div>
 			<div className="view">
-				<div className="content colors-e background-solid">
+				<div className="content colors-e background-none">
 					<div className="container">
             <h2>Recognised by<span className="highlight"></span></h2>
-            <div className="gallery colors-h background-solid">
-              <div className="container-fluid col-md-8 col-md-offset-2">
+            <div className="gallery ">
+              <div className="container-fluid col-md-12">
                 <div className="row">
-                  <div className="grid colors-e">
-                    <div className="item col-md-6 col-sm-6 col-xs-6">
-                      <a href="#" className="hover-overlay">
+                  <div className="grid">
+                    <div className="item col-md-3 col-sm-6 col-xs-6">
+                      <a href="http://www.talentunleashedawards.com/2017-apac-finalists/" rel="noopener noreferrer" target="_blank" className="hover-overlay">
 												<img alt="Talent Unleashed" src="../assets/images/Talent_Unleashed_2017.png" />
                         <div className="overlay background-90-a">
                           <div className="hidden-md">
@@ -23,8 +24,8 @@ export default class Work extends React.Component {
                         </div>
                       </a>
                     </div>
-                    <div className="item col-md-6 col-sm-6 col-xs-6">
-                      <a href="#" className="hover-overlay">
+                    <div className="item col-md-3 col-sm-6 col-xs-6">
+                      <a href="#" rel="noopener noreferrer" target="_blank" className="hover-overlay">
                         <img alt="Australian Technologies Competition" src="../assets/images/atc.jpg" />
                         <div className="overlay background-90-a">
                           <div className="hidden-md">
@@ -34,8 +35,8 @@ export default class Work extends React.Component {
                         </div>
                       </a>
                     </div>
-                    <div className="item col-md-6 col-sm-6 col-xs-6">
-                      <a href="#" className="hover-overlay">
+                    <div className="item col-md-3 col-sm-6 col-xs-6">
+                      <a href="#" rel="noopener noreferrer" target="_blank" className="hover-overlay">
                         <img alt="The Australian" src="../assets/images/the-australian-logo.svg"/>
                         <div className="overlay background-90-a">
                           <div className="hidden-md">
@@ -45,8 +46,8 @@ export default class Work extends React.Component {
                         </div>
                       </a>
                     </div>
-                    <div className="item col-md-6 col-sm-6 col-xs-6">
-                      <a href="#" className="hover-overlay">
+                    <div className="item col-md-3 col-sm-6 col-xs-6">
+                      <a href="#" rel="noopener noreferrer" target="_blank" className="hover-overlay">
                         <img alt="iTWire" src="../assets/images/itw.jpg" />
                         <div className="overlay background-90-a">
                           <div className="hidden-md">
@@ -82,7 +83,7 @@ export default class Work extends React.Component {
                 </div>
               </div>
             </div>
-          </div>
+					</div>
 				</div>
 			</div>
     </section>

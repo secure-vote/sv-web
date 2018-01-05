@@ -3909,6 +3909,22 @@ footer.colors-d.border-top {
 .colors-e.background-lite {
   background-color: rgba(20, 20, 20, 0.5023176);
 }
+.colors-e .background-gradient,
+.colors-e.background-gradient {
+  background: linear-gradient(#0f0e0e, white 20%, white 85%, #0f0e0e);
+}
+.background-overlay {
+  /*background: linear-gradient(#0f0e0e, #0f0e0e 10%, white 30%, white 70%, #0f0e0e 90%, #0f0e0e);*/
+  background-color: white;
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  top: 0;
+}
+.colors-e .background-none,
+.colors-e.background-none {
+    background: none;
+}
 
 .colors-e h1,
 .colors-e h2,
@@ -6765,6 +6781,7 @@ footer.colors-g.border-top {
 .colors-h .alt-background-solid,
 .colors-h.alt-background-solid {
   color: #ffffff;
+  background-color: #0f0e0e;
 }
 
 .colors-h .background-hard,
