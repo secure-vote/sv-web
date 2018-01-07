@@ -37,9 +37,8 @@ export default class Mission extends React.Component {
 										<div className="content incut colors-h background-solid">
 											<div className="position-middle-center">
 												<h3 className="text-left"><span className="highlight">Our</span> Mission</h3>
-												<p className="subtitle highlight"><strong>Quisque dolor lacus, commodo id hendrerit viverra, euismod in odio.</strong></p>
-												<p>Aliquam fermentum massa ac est sollicitudin, at ultricies ligula tristique. Cras finibus, nulla ac convallis feugiat, nisl nisl lobortis est, eget auctor velit magna vel nunc. Donec nec eros rhoncus.</p>
-												<p>Aenean nisi neque, aliquam ut nibh sit amet, finibus sagittis tortor aenean consectetur.</p>
+												<p className="subtitle highlight"><strong>Democratize the World</strong></p>
+												<p>At SecureVote, Democracy is our passion. We’re committed to using our  technology to not only support decentralised organisations and ecosystems but to help transform democracy and governance world wide.</p>
 											</div>
 										</div>
 									</div>

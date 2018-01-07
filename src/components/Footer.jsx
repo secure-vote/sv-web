@@ -43,7 +43,8 @@ export default class Footer extends React.Component {
 				</div>
 			</div>
 			<div className="bottom text-center background-5-b">
-				© 2017 All Rights Reserved. <a href="#" className="open-overlay-window heading" data-overlay-window=".credits-overlay">Credits.</a>
+				© 2017 All Rights Reserved Exo One Pty Ltd.
+				{/*<a href="#" className="open-overlay-window heading" data-overlay-window=".credits-overlay">Credits.</a>*/}
 			</div>
 		</footer>
 		)
