@@ -26,7 +26,7 @@ export default class Work extends React.Component {
                     </div>
                     <div className="item col-md-3 col-sm-6 col-xs-6">
                       <a href="#" rel="noopener noreferrer" target="_blank" className="hover-overlay">
-                        <img alt="Australian Technologies Competition" src="../assets/images/atc.jpg" />
+                        <img alt="Australian Technologies Competition" src="../assets/images/atc.png" />
                         <div className="overlay background-90-a">
                           <div className="hidden-md">
                             <p className="title heading-a">Australian Technologies Competition</p>
