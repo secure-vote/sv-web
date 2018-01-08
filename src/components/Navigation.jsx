@@ -17,7 +17,7 @@ export default class Navigation extends React.Component {
 							<ul className="nav navbar-nav navbar-right">
 								<li><a className="hover-effect" href="#benefits">Benefits</a></li>
 								<li><a className="hover-effect" href="#features">Features</a></li>
-								<li><a className="hover-effect" href="government.html">Government</a></li>
+								{/*<li><a className="hover-effect" href="government.html">Government</a></li>*/}
 								<li><a className="hover-effect" href="#contact">Contact Us</a></li>
 								{/*<li><a className="hover-effect" rel="noopener noreferrer" target="_blank" href="https://blog.xo1.io/"><i className="fa fa-medium fa-2x"></i></a></li>*/}
 								{/*<li><a className="hover-effect" rel="noopener noreferrer" target="_blank" href="https://www.facebook.com/SecureVote/"><i className="fa fa-facebook fa-2x"></i></a></li>*/}

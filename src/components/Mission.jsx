@@ -9,7 +9,7 @@ export default class Mission extends React.Component {
 						<div className="container-fluid">
 							<div className="row gallery">
 								<div className="col-md-6 stretch-height pane">
-									<a href="#" className="hover-overlay">
+									<div className="hover-overlay">
 										<div className="view fluid-height ">
 											<div className="content incut colors-h background-solid">
 
@@ -36,7 +36,7 @@ export default class Mission extends React.Component {
 
 											</div>
 										</div>
-									</a>
+									</div>
 								</div>
 								<div className="col-md-6  stretch-height pane" id="mission">
 									<div className="view fluid-height">
