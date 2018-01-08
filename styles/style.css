@@ -989,7 +989,7 @@ body {
   height: auto;
 }
 .gallery .hover-overlay .overlay > div {
-  padding: 0 25%;
+  padding: 0 5%;
 }
 .gallery-overlay .field {
   text-transform: uppercase;
