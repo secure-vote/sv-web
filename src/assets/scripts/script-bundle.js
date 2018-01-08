@@ -1114,7 +1114,7 @@
 				a.submit(function(b) {
 					a.find(".help-block ul").length < 1 && (e.addClass("show"), d.gate(function() {
 						var b = function(b) {
-							c('<div class="ajax-form-alert alert heading fade in text-center">	<button type="button" class="close" data-dismiss="alert" aria-hidden="true">×</button> ' + b + "</div>").addClass(a.data("message-class")).appendTo("body"), d.ungate(), e.removeClass("show")
+							c('<div class="ajax-form-alert alert heading fade in text-center"> ' + b + "</div>").addClass(a.data("message-class")).appendTo("body"), d.ungate(), e.removeClass("show")
 						};
 						c.ajax({
 							type: a.attr("method"),

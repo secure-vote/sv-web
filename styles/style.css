@@ -3493,7 +3493,7 @@ ul.simple li:before {
   /*-moz-transform: translate(-50%,-50%);*/
   /*-ms-transform: translate(-50%,-50%);*/
   /*-o-transform: translate(-50%,-50%);*/
-  /*z-index: 2000;*/
+  z-index: 2000;
 }
 .ajax-form-alert button {
   margin-left: 10px;

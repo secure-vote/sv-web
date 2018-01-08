@@ -43,17 +43,17 @@ export default class Contact extends React.Component {
 										<div className="row">
 											<div className="col-md-6 control-group">
 												<div className="alt-placeholder">Name</div>
-												<input type="text" name="your-name" size="40" placeholder="Name" data-validation-required-message="Please fill the required field." />
+												<input type="text" name="name" size="40" placeholder="Name" data-validation-required-message="Please fill the required field." />
 												<div className="help-block"></div>
 											</div>
 											<div className="col-md-6 control-group">
 												<div className="alt-placeholder">Email</div>
-												<input type="email" name="your-email" size="40" placeholder="Email" data-validation-required-message="Please fill the required field." />
+												<input type="email" name="email" size="40" placeholder="Email" data-validation-required-message="Please fill the required field." />
 												<div className="help-block"></div>
 											</div>
 											<div className="col-md-12 control-group">
 												<div className="alt-placeholder">Message</div>
-												<textarea name="your-message" placeholder="Message" data-validation-required-message="Please fill the required field." />
+												<textarea name="message" placeholder="Message" data-validation-required-message="Please fill the required field." />
 												<div className="help-block"></div>
 											</div>
 											<div className="col-md-12 form-actions">
