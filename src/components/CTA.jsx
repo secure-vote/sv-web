@@ -8,7 +8,7 @@ export default class CTA extends React.Component {
 					<img className="bg" src="../assets/images/home_5.jpeg" /> <img className="bg" src="../assets/images/home_5.jpeg" />
 					<div className="content half-size colors-h">
 						<div className="container">
-							<h2><div className="text-center highlight-a textillate heading hidden-xs hidden-sm" data-textillate-options="{loop:false, in:{effect:'flipInY', sequence:true}, out:{effect:'fadeOut', sync:true}}">
+							<h2><div className="text-center highlight-a textillate heading hidden-xs hidden-sm" data-textillate-options="{loop:true, in:{effect:'flipInY', sequence:true}, out:{effect:'fadeOut', sync:true}}">
 								<p className="title">Let's work together to build beautiful democracy</p>
 							</div></h2>
 							<div className="separator"></div>

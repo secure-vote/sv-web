@@ -87,11 +87,11 @@ export default class Extnavbar extends React.Component {
 						<span className="side-title">Recognition</span>
 					</div>
 				</a>
-				<a href="government.html" className="">
-					<div>
-						<span className="side-title">SecureVote for Government</span>
-					</div>
-				</a>
+				{/*<a href="government.html" className="">*/}
+					{/*<div>*/}
+						{/*<span className="side-title">SecureVote for Government</span>*/}
+					{/*</div>*/}
+				{/*</a>*/}
 				<a href="#contact" className="">
 					<div>
 						<span className="side-title">Contact Us</span>

@@ -9,7 +9,7 @@ export default class Hero extends React.Component {
 						<div className="col-md-12">
 							<h3 className="medium-font-weight">
 								<span className="highlight-g">SecureVote</span> is a scalable, reliable, and customisable decentralised governance solution, designed to easily interface
-								with any blockchain-based decentralised organisation.</h3>
+								with any blockchain.</h3>
 						</div>
 					</div>
 				</div>
