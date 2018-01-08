@@ -129,7 +129,7 @@ h3 {
 }
 @media (max-width: 991px) {
   h3 {
-    font-size: 25x;
+    font-size: 25px;
     line-height: 30px;
   }
 }

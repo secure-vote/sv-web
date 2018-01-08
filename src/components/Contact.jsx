@@ -39,15 +39,16 @@ export default class Contact extends React.Component {
 							<div className="col-md-6">
 								<div className="text-left scroll-in-animation" data-animation="fadeInRight">
 									<form className="ajax-form" data-message-classname="colors-e background-95 border heading" action="" method="post">
+										<input type="hidden" name="form-name" value="contact" />
 										<div className="row">
 											<div className="col-md-6 control-group">
 												<div className="alt-placeholder">Name</div>
-												<input type="text" name="your-name" value="" size="40" placeholder="Name" data-validation-required-message="Please fill the required field." />
+												<input type="text" name="your-name" size="40" placeholder="Name" data-validation-required-message="Please fill the required field." />
 												<div className="help-block"></div>
 											</div>
 											<div className="col-md-6 control-group">
 												<div className="alt-placeholder">Email</div>
-												<input type="email" name="your-email" value="" size="40" placeholder="Email" data-validation-required-message="Please fill the required field." />
+												<input type="email" name="your-email" size="40" placeholder="Email" data-validation-required-message="Please fill the required field." />
 												<div className="help-block"></div>
 											</div>
 											<div className="col-md-12 control-group">
