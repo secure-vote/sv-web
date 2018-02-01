@@ -43,7 +43,7 @@ export default class Features extends React.Component {
 									<div className="col-md-3 top-line">
 										<h4>BESPOKE SOLUTION</h4>
 										<p className="highlight">Implement governance that is purpose built for your ecosystem.</p>
-										<p>We understand that every token ecosystem is unique. SecureVote is highly flexible and can handle sophisticated arbitrary governance models. If you can imagine it, SecureVote can handle it. Our architecture also makes upgrading your system after deployment easy, as your ecosystem adapts and grows into the future.</p>
+										<p>We understand that every token ecosystem is unique. SecureVote is highly flexible and can handle sophisticated, arbitrary governance models. If you can imagine it, SecureVote can handle it. Our architecture also makes upgrading your system after deployment easy, as your ecosystem adapts and grows into the future.</p>
 										{/*<ul className="simple">*/}
 											{/*<li> consectetur adipisicing elit. </li>*/}
 											{/*<li>Lorem ipsum dolor, sit amet</li>*/}
